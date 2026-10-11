@@ -1,0 +1,240 @@
+{
+  "examId": "2025-r07-aki",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後に原画像・正解・根拠を別工程で再確認）",
+  "userReview": "pending",
+  "method": "公式PDFと切り出し画像25問、転記文、全肢の説明を照合。原本はsha256.jsonで特定。図の選択肢は形状の説明、数式はプレーンテキスト、表はMarkdownで記録。JSAプレビューは公開範囲のみ参照し、規格全文を公式サイトで閲覧したとは扱わない。",
+  "corrections": [
+    "問12のエ末尾、問19の選択肢が切り出し範囲から欠けていたため修正し、画像一覧で再確認。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。ISO 21500:2012の公開サンプル3.6・3.8でガバナンスと各役割を照合。JSAプレビューでJISの対応版を確認。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。変更要求の上向き矢印と承認変更の下向き矢印を確認。JIS Q 21500:2018の4.2.2と図6の原規格公開転記を参照し、実行と管理の関係を確認。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。NISTの線形回帰説明と、設問の根本原因・差異・傾向の各説明を照合。統計関係と因果関係を区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。PMIのTop Five Causes of Scope Creepで無管理の拡大と正式変更を区別。ウでは範囲が変わらないことを確認。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。注目を受けた行動変化と各事例を照合。ホーソン効果を常に生産性向上が起こる法則とは書かず、ウに推測の心理学名称を付けていない。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。図のA6/B7/C5、FSリード2、SSラグ3を照合。A終了6、B開始4・終了11、C開始7・終了12と再計算。誤答の計算過程は推測しない。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。上下2図とダミー作業を確認。全経路を別計算し当初33日、変更後34日。変更後のGI側は31日・G2ダミー側は31日で、CFH側の34日が支配する。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。PMIのBuffering Against Riskで合流・プロジェクトバッファを確認。ウのクラッシング、エのファストトラッキングを設問の動作に照合。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。指数1.12と4図の形状を確認。S/(3S^1.12)=S^-0.12/3を再計算し、例示3値と一階・二階微分の符号を確認。図選択肢テキストは形状説明。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS Q 21500:2018の表1にある4.3.28/29の計画所属を原規格公開転記で照合。反復実施と分類の違いを明記。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。会議体の表全体と6列・3行の転記を照合。5W1HのWhoに相当する主催者・参加者がないことを確認。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。切り出し末尾の修正後に全肢を再確認。JIS Q 21500:2018の4.3.9、4.3.38〜40の原規格公開転記にある目的と照合。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Bill Wake本人のINVESTの説明で六語と対象を確認。ア〜ウは図や設計パターンでストーリー評価と異なる。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。JSAの規格紹介で2021年版を確認。対応国際規格ISO/IEC/IEEE 12207:2017の目的記述（公開PDF検索結果）で検証と妥当性確認、6.3.7測定を照合。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。Scrum Guide 2020のSprint、Sprint Backlog、Product Backlogの責任と制約を照合。品質の低下、ゴールを危険にさらす変更を認めない。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JSA公開プレビューの1適用範囲で客観的で一貫したアセスメントを確認。改善活動そのものと診断の要求事項を区別。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Redmineの公式課題管理文書と不具合追跡の役割を照合。デバッガ、テスト支援、メトリクス算定の各事例を区別。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。縦軸が単価ではなく合計料金であることを確認。区間ごとの傾きが下がるウを照合。図選択肢テキストは形状説明。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。選択肢行の切り出しを修正し再確認。Redmine公式Featuresのチケット・ワークフローに照合。他3製品の用途との違いを確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。IPAの非機能要求グレードで可用性・性能・運用・移行などの観点を照合。機能・業務・事業上の目的を各肢の記述から区別。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。公正取引委員会の下請法道場の支払期日解説にある、下請側責任・期日前発見・やり直し後受領を照合。検査日との混同を避け、出題当時と限定。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。消費者庁の制度FAQ・事業者向け資料の教育周知、外部窓口、匿名通報対応を照合。所属長に窓口を限定しないことを確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。CISA AA23-278AのMFA bombingの説明を照合。疲労という語だけで寝顔や偽メールを選ばない点を確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。BISの2021年オペレーショナルリスク原則の定義で人・プロセス・システム・外部事象を照合。損失の直接原因と評判への波及を区別。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。RFC 3227のOrder of Volatilityにあるrouting table、disk、remote logging、archival mediaの順を照合。表の4行も原画像と照合。"
+    }
+  ],
+  "dataSha256": "2484bdae748564e39b6e0cc66264ba42e2b1c700dd0930e8836c87bac8b21b60",
+  "imagesSha256": {
+    "2025-r07-aki/q01.png": "6ca71e9a1460c3ce8e6794d99ea8fc44538697c1a91c8ec475a7ff84a13ef4f4",
+    "2025-r07-aki/q02.png": "86e1664aaf9fa7ccef261349c27785f782c90d0426007b618d09167622476ab9",
+    "2025-r07-aki/q03.png": "6cb5edad8c7123701cf413f296cc8faf25e60b607b40efcc81ab38ff90db625f",
+    "2025-r07-aki/q04.png": "28b6348408560db40a61a1924fa137e53ef1675802fe50ecc1cce782869a87d7",
+    "2025-r07-aki/q05.png": "d5ac72f22ec4bfd9b1817285331c02194bc22bc3b3f2854f9e277fc482edd9ba",
+    "2025-r07-aki/q06.png": "14e69f7e875473c5adcce2e529c59fc0f224620289e6d650a6ebd466f44e9fe0",
+    "2025-r07-aki/q07.png": "3bfcf7c40739579397df05e24d4d5df6701e2cb78deeccbbe27a1f385c25685d",
+    "2025-r07-aki/q08.png": "4d495582068e7458c84b1aaac67e9d9a8d99754008caf327617c854a1db9d600",
+    "2025-r07-aki/q09.png": "fd7e4a1bfd13852f9acde4dbc00bab002f5eb70b9f958171b955dfea2d78e34d",
+    "2025-r07-aki/q10.png": "a9bfc4c0590ba2c0b7dc67b3a98558c86d82aede6fe1913517008a407a1d738b",
+    "2025-r07-aki/q11.png": "130c63611730e74e88f3b7fe3b4051b39c500862c4b97efbb30935e630a41087",
+    "2025-r07-aki/q12.png": "d4b041266a2075c65f9f5bfbf58d33feeb75e97940f1633a9207b59638eeb278",
+    "2025-r07-aki/q13.png": "262800007b958d00620c1056bf6a128683e5f5aef2404c8f047fbd1718da605a",
+    "2025-r07-aki/q14.png": "9b3322755a1e89e0fa6e07be0254bb91c84e05a32c7d68282f1aec3e48aa6510",
+    "2025-r07-aki/q15.png": "4f9e23b686248473332ac6edbfbe9753bcc63f6d168c7273a59e763bb44c0b3f",
+    "2025-r07-aki/q16.png": "90b46dd8460dfca523b21babfdb338bd14e4cfab09cabacba2a93c228e6cfe8b",
+    "2025-r07-aki/q17.png": "488d93cbe7d3977b58845d357c4b0c436603c9b4f1d79ba5342e66cc6723f437",
+    "2025-r07-aki/q18.png": "60fd1866c0367dd265c5c35e200066cb33ae93a3cfbe1b2caef0369773b93cb5",
+    "2025-r07-aki/q19.png": "1d9220eefde91fc0e22e8757615a51d6eb6a4c27ef4f7a92387d4909b39a6359",
+    "2025-r07-aki/q20.png": "7d50d82b7681a4601a122a6ca54519b79e0a7172ce2cee5478c756c239ecd934",
+    "2025-r07-aki/q21.png": "ed95ff99d97f24f78d420e55fd870e87a87a31436ee7ab1ee1b4812019df9911",
+    "2025-r07-aki/q22.png": "dec7c8865d4a6abdff37f97d295163d05486f4c0364f1750b0c848186b7a00bf",
+    "2025-r07-aki/q23.png": "83255e358db99123ed0c97f5991a2a02acf9b4c51a80419c75dc7fdb753082fa",
+    "2025-r07-aki/q24.png": "469def36334a266fea1fc302f4fda2851db20adf29ad86892149e035c975d7ff",
+    "2025-r07-aki/q25.png": "33c3aba4a752c20421bff6ede60d32e0cc42db18426633f730dde36c1f9a0ad9"
+  }
+}

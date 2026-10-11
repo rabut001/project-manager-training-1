@@ -1,0 +1,46 @@
+name: GitHub Pagesへ公開
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: 開発コンテナを構築
+        run: docker build -t pm-training-dev -f .devcontainer/Dockerfile .
+      - name: 全17回の収録を確認し、コンテナ内で検証・ビルド
+        run: |
+          docker run --rm --init \
+            -e CI=true \
+            -v "$GITHUB_WORKSPACE:/workspace" -w /workspace \
+            pm-training-dev bash -c \
+            'python scripts/validate_data.py --release && npm ci && npx playwright install --with-deps chromium && npm test && npm run build && npm run test:browser'
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 公開
+        id: deployment
+        uses: actions/deploy-pages@v4

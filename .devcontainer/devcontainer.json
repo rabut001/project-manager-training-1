@@ -1,0 +1,15 @@
+{
+  "name": "project-manager-training",
+  "build": { "dockerfile": "Dockerfile", "context": ".." },
+  "remoteUser": "node",
+  "userEnvProbe": "none",
+  "forwardPorts": [5173, 4173],
+  "portsAttributes": {
+    "5173": { "label": "PM演習・開発", "onAutoForward": "notify" },
+    "4173": { "label": "PM演習・ビルド確認" }
+  },
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  "customizations": {
+    "vscode": { "extensions": ["mathematic.vscode-pdf"] }
+  }
+}

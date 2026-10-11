@@ -1,0 +1,440 @@
+:root {
+  color: #1c1b19;
+  background: #e6e1d6;
+  font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+button,
+a {
+  font: inherit;
+}
+
+button {
+  min-height: 2.75rem;
+  min-width: 2.75rem;
+  border: 1px solid #b7b1a6;
+  border-radius: 0.4rem;
+  background: #fff;
+  color: inherit;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+  opacity: 0.45;
+}
+
+.practice {
+  width: min(42rem, 100%);
+  height: 100dvh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fbfaf7;
+}
+
+.top {
+  flex: none;
+  padding: 0.75rem 1rem 0.5rem;
+  background: #fbfaf7;
+  border-bottom: 1px solid #e0dbd1;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  margin-bottom: 0.6rem;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid #b7b1a6;
+  border-radius: 0.4rem;
+  background: #fff;
+  color: inherit;
+  text-decoration: none;
+}
+
+.score {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.score span {
+  font-weight: 700;
+}
+
+.numbers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.6rem;
+}
+
+.number {
+  display: flex;
+  flex: 0 0 2.75rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0.15rem 0.05rem 0.12rem;
+  gap: 0.12rem;
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.number.current {
+  border-color: #1f4e79;
+  background: #1f4e79;
+  color: #fff;
+}
+
+.number.draft {
+  border-color: #8a6a2f;
+}
+
+.number.correct {
+  border-color: #1b6b3a;
+  background: #e3f2e8;
+  color: #1b6b3a;
+}
+
+.number.incorrect {
+  border-color: #9b2c2c;
+  background: #f8e8e8;
+  color: #9b2c2c;
+}
+
+.number.current.draft,
+.number.current.correct,
+.number.current.incorrect {
+  border-color: #1f4e79;
+  background: #1f4e79;
+  color: #fff;
+}
+
+.number.current .flag {
+  color: #fff;
+}
+
+.badges {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.08rem;
+  height: 0.75rem;
+}
+
+.mark {
+  font-size: 0.7rem;
+  line-height: 1;
+}
+
+.flag {
+  flex: none;
+  width: 0.75rem;
+  height: 0.75rem;
+  color: #1c1b19;
+}
+
+.flag svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.flag path {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 3.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.check-row {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 0.35rem;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  margin: 0;
+  border: 1px solid #b7b1a6;
+  border-radius: 0.4rem;
+  background: #fff;
+  cursor: pointer;
+}
+
+.check input {
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0;
+  accent-color: #1f4e79;
+}
+
+.image-pane {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0.75rem 1rem;
+}
+
+.image-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: auto;
+  scrollbar-width: none;
+}
+
+.image-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.image-pane img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.lower {
+  flex: 0 1 auto;
+  max-height: calc(45vh - 3.1rem);
+  overflow: auto;
+  scrollbar-width: none;
+  padding: 0.25rem 1rem 0.4rem;
+  border-top: 1px solid #e0dbd1;
+}
+
+.lower::-webkit-scrollbar {
+  display: none;
+}
+
+.choices {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+
+.choices button.selected {
+  border-color: #1f4e79;
+  background: #1f4e79;
+  color: #fff;
+}
+
+.confirm,
+.pager button,
+.grade,
+.clear {
+  width: 100%;
+  margin-top: 0.35rem;
+}
+
+.pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.pager button {
+  margin-top: 0.35rem;
+}
+
+.result {
+  margin-top: 0.35rem;
+}
+
+.result p {
+  margin: 0.35rem 0;
+}
+
+.result .ok {
+  color: #1b6b3a;
+  font-weight: 700;
+}
+
+.result .ng {
+  color: #9b2c2c;
+  font-weight: 700;
+}
+
+.note {
+  color: #5c574e;
+  font-size: 0.9rem;
+}
+
+.clear {
+  border-color: transparent;
+  background: transparent;
+  color: #9b2c2c;
+}
+
+.confirm:not(:disabled), .zoom-scales .selected {
+  border-color: #1f4e79;
+  background: #1f4e79;
+  color: #fff;
+}
+
+.image-expand {
+  display: block;
+  min-height: 0;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+
+.zoom-dialog {
+  width: calc(100% - 1rem);
+  max-width: 60rem;
+  height: calc(100dvh - 1rem);
+  max-height: calc(100dvh - 1rem);
+  padding: 0;
+  overflow: hidden;
+  background: #fbfaf7;
+}
+
+.zoom-dialog[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+.zoom-toolbar {
+  display: flex;
+  flex: none;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35rem;
+  padding: 0.5rem;
+  border-bottom: 1px solid #e0dbd1;
+}
+
+.zoom-toolbar button { padding: 0.25rem 0.45rem; }
+.zoom-scales { display: flex; gap: 0.2rem; }
+.zoom-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  overscroll-behavior: contain;
+  background: white;
+}
+.zoom-scroll img { display: block; max-width: none; height: auto; }
+
+footer {
+  margin-top: 0.35rem;
+  color: #5c574e;
+  font-size: 0.9rem;
+}
+
+.status {
+  width: min(42rem, 100%);
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.sheet {
+  width: min(42rem, 100%);
+  min-height: 100dvh;
+  margin: 0 auto;
+  padding: 0.75rem 1rem 1rem;
+  background: #fbfaf7;
+}
+
+.exam-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.exam-list a {
+  display: flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid #b7b1a6;
+  border-radius: 0.4rem;
+  background: #fff;
+  color: inherit;
+  text-decoration: none;
+}
+
+dialog {
+  width: min(24rem, calc(100% - 2rem));
+  border: none;
+  border-radius: 0.6rem;
+  padding: 1.25rem;
+}
+
+dialog::backdrop {
+  background: rgb(28 27 25 / 45%);
+}
+
+dialog h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.dialog-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.danger {
+  border-color: #9b2c2c;
+  background: #9b2c2c;
+  color: #fff;
+}
+
+@media (max-width: 40rem) {
+  .heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .choices {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* 小さな画面では番号欄だけでも画面を占有するため、上部もスクロール可能にする。 */
+@media (max-height: 42.5rem) {
+  .top {
+    max-height: 45dvh;
+    overflow: auto;
+  }
+}

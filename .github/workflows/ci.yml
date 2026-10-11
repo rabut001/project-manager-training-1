@@ -1,0 +1,27 @@
+name: 検証
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: 開発コンテナを構築
+        run: docker build -t pm-training-dev -f .devcontainer/Dockerfile .
+      - name: コンテナ内で依存導入・データ検証・ビルド・テスト
+        run: |
+          docker run --rm --init \
+            -e CI=true \
+            -v "$GITHUB_WORKSPACE:/workspace" -w /workspace \
+            pm-training-dev bash -c \
+            'npm ci && npx playwright install --with-deps chromium && npm test && npm run build && npm run test:browser'
