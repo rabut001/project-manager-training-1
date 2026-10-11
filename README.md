@@ -4,6 +4,8 @@
 
 **2009〜2025年度の全17回・425問**を収録しています。IPAの原問題画像と公式正解を使い、正解の根拠・各誤答の理由・必要な計算手順を説明します。2016年度春期問2の公式取消を反映し、採点対象は424問です。問題画像はタップして1・2・3倍で読めます。
 
+リポジトリ: [rabut001/project-manager-training-1](https://github.com/rabut001/project-manager-training-1)。GitHub Pages公開先: [PM午前Ⅱ演習](https://rabut001.github.io/project-manager-training-1/)。
+
 ## 開発コンテナで起動
 
 Node.js・npm・Pythonの依存関係はすべて開発コンテナに入れます。ホストLinuxにはインストールしません。ホストにはDockerと、Dev Containers対応のエディタを用意してください。
@@ -91,9 +93,9 @@ python scripts/review_images.py 2025-r07-aki
 
 ## GitHub Pagesへの公開
 
-対象リポジトリ名を`project-manager-training-1`と想定し、Viteの`base`を設定しています。名前や公開パスを変える場合は`vite.config.ts`とブラウザテストのURLを合わせて変更してください。
+リポジトリは`rabut001/project-manager-training-1`、公開パスは`/project-manager-training-1/`です。Viteの`base`もこのパスに設定しています。名前や公開パスを変える場合は`vite.config.ts`とブラウザテストのURLを合わせて変更してください。
 
-GitHubへの登録後、Settings → PagesのSourceをGitHub Actionsにし、`pages.yml`を手動実行します。GitHubへの登録・公開操作はまだ実施していません。公開ワークフローでは、次の検証で全17回の収録と確認記録を必須にします。
+更新を`main`にpushし、[Actionsの公開ワークフロー](https://github.com/rabut001/project-manager-training-1/actions/workflows/pages.yml)から「Run workflow」を実行します。PagesのSourceはGitHub Actionsを使います。公開ワークフローでは、次の検証で全17回の収録と確認記録を必須にします。
 
 ```bash
 python scripts/validate_data.py --release

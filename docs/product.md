@@ -38,6 +38,8 @@ localStorageに年度別の回答（未確認も含む）、現在位置、チ�
 
 各問に年度・期・PM・午前Ⅱ・問番号とIPAへのリンクを表示。解説に「IPA の公式解説ではない」と表示する。公開はGitHub Pages。原本・確認記録・開発文書は配信しない。年度の直接URL、再読み込み、戻る・進むをサポートする。
 
+リポジトリは `https://github.com/rabut001/project-manager-training-1`、公開URLは `https://rabut001.github.io/project-manager-training-1/`。
+
 ## 開発環境
 
 開発コンテナを使用する。Node.js 24 LTS、Python、PDF処理・OCRをコンテナ内に用意する。npm・pipのインストール、サーバー起動、ビルド、テストはコンテナ内で実行し、ホストLinuxにはインストールしない。
