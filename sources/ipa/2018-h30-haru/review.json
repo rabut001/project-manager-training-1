@@ -1,0 +1,237 @@
+{
+  "examId": "2018-h30-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。原画像のISO2012・コントロール表記を確認、対応JIS2018の変更要求相互作用と照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。アは製品等の特性を示す文書で2022問2とは異なることを確認し新規解説。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。PMIの構成管理原資料で変更・状態・監査を確認。EVM/対立/ポートフォリオと区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。RACI4役と2024問2の全肢順を照合。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。資源確保・配分を対応JIS原規格転記と確認。見積り・チーム開発・獲得と区別。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。二つの原図を全辺・数値・ダミーまで照合。独立計算で33→34日と確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。表の期間比の全セルと200本中100本を確認。400日×残り.375=150を再計算。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。指数1.12と曲線が2022問10と一致、式を導出。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。2020問10と費用・確率・効果・肢が一致。境界200を再計算。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。第5版の好機・脅威への受容、共有・強化・転嫁を比較。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。確率影響の相対的優先順位と他3定量的手法を比較。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。ISO25010:2011公開定義の満足性と快適性を照合。他肢は柔軟性・効率性・有効性。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。少数原因の累積頻度と他3QC図を比較。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。品質計画で測定基準を定めることと品質コントロールの出力を全肢比較。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。調達対象の運用サービスとプロジェクト全体の管理情報を比較。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。IPA共通フレーム調達ガイドのシステム開発過程と原問の要件適合・納入準備を照合。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Agile AllianceのTDDでテスト先行を確認。他3肢は定義を満たさない。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2021問16と7原則・3誤答の内容が一致。著者の書籍抜粋と確認。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。ITIL2011のイベント検知とインシデント復旧・問題原因管理を全肢比較。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。JIPDECの当該規格4.5.4.2引用で自己監査禁止を確認。他3禁止は要求と逆。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。契約の水準・報告・監査と直接指揮命令禁止を厚労省資料で確認。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。厚労省の周知・意見聴取と89/90/106条、労働契約法12条を照合。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2022問21と全肢一致。EU公式RoHSの含有物質規制を確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。原式のn+1/2n/n(n−1)/2/log2nを確認。各人2鍵で2nを導出。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。原肢はマクロウイルス表記だが2021問24と意味一致。漏えい電磁波と他攻撃を比較。"
+    }
+  ],
+  "dataSha256": "6cefb1be546580e175f01549882d72e3be950888ab0bacc04380e0465a9b0d5d",
+  "imagesSha256": {
+    "2018-h30-haru/q01.png": "cda592c9bc86e8c896f80f8e2e88e206124141347c16402f3251c9926072694e",
+    "2018-h30-haru/q02.png": "d9879b5a573b41c63634cfd51d4adb5d9cb410813af8c42ba5ffa526490d07c4",
+    "2018-h30-haru/q03.png": "e794fbc98e24db9a689680af68a190b6a48eade3b58f5cfaa1f124c5a7952d30",
+    "2018-h30-haru/q04.png": "5832052e71b5d757a41f7a80ffa49b846984dda015ba501e81fe3d4550e5eff8",
+    "2018-h30-haru/q05.png": "aedde4b6d07c5cee4929940a3c90351ff2de285a5bd7f3d5a45032f0df86eee8",
+    "2018-h30-haru/q06.png": "edeb3fe3f58dcfafce3a5b0de4ff32125e592bb0723f2f558894f8d08690f847",
+    "2018-h30-haru/q07.png": "a5f2b3167a893d0495e976df0d253b856b58a81d7b5a46a5fdf03b9be8aa92fc",
+    "2018-h30-haru/q08.png": "09611456f50fab99cbe6facc032a8bd99dbf11ce2ff9f61da73dca92bc3f1a71",
+    "2018-h30-haru/q09.png": "b0d64b9ac871ea1aa69828634c0da489a643fc3a46fff9930767d06ab0efef51",
+    "2018-h30-haru/q10.png": "e43f150680ee57ba07eb9b07c388e0c1609479c4cbf9187bb0cf438f01556f8e",
+    "2018-h30-haru/q11.png": "7c5cbaeaeeddd7f24c491aed6d1eecec01c069839b8777f0ccebcc2e057ee51e",
+    "2018-h30-haru/q12.png": "3120fcd23159d8df98a59bd5d7f0fc122272292ea6089f0a20614edf73e69d74",
+    "2018-h30-haru/q13.png": "eba6e6cac5a88b8ba3f622455171f6391f7e422528502db55e51f9457ee6676d",
+    "2018-h30-haru/q14.png": "b6b20d25ddccbf04af992277f0880d032b40c5447465426151ae89fea23c7cb7",
+    "2018-h30-haru/q15.png": "e1aad26c7cfde084c7580eda1cd55b53e0ad29b16e9d932f1e6f0192264c688c",
+    "2018-h30-haru/q16.png": "2676009dffa3c2f53740a78ce2e1de56eb9f860bae7b7621e6be566e94c94889",
+    "2018-h30-haru/q17.png": "2dd1e5717fe1b9d7d28944425c1b20b7ac6d8e85b51ada48964ae21fe202ed7d",
+    "2018-h30-haru/q18.png": "70d1b361faab401d9a53f148be0b949494016d2b833e7f725f02f31f501cc238",
+    "2018-h30-haru/q19.png": "e707ac4b5d4bd3dd39d38ecdda62d887624752fd19b18be0b51fab44dafd2a09",
+    "2018-h30-haru/q20.png": "cbaa49193bdc9baf3b24c97e83c69edbec6464ff34a6335e5efc5d7d8faa26a6",
+    "2018-h30-haru/q21.png": "c00ecc36359d5224a42e2fdd4eb9e50ce1b3e730913f9e2e73ad4bdbc07a3973",
+    "2018-h30-haru/q22.png": "c0a7a6d3207cbc22afebe143b973bc6f1cf9b5a75cfb6f0f5ec629a4b2bd9ad3",
+    "2018-h30-haru/q23.png": "3eba192867c6691ae5a8a9e7f248dc479d248a4f9bf470c8ed8e39653ea8e9d8",
+    "2018-h30-haru/q24.png": "07fd696524d07d527138f9232d107fc2608e1eaf470abcf68875163b9c99a74f",
+    "2018-h30-haru/q25.png": "bdb7776b7af78aefa85c0767bda8bf245f3af5e0315d254fb5a1c6c752800278"
+  }
+}

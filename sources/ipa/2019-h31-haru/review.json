@@ -1,0 +1,237 @@
+{
+  "examId": "2019-h31-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。PMOが組織としての標準化等を担うことと原肢を確認。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。2021問2と原表の設計行及び全肢が一致。Aの野村を再確認。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。2021問5と全肢一致。基本ガントの横棒と他図表を比較。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。2021問7と同じバッファ・資源制約、他肢と比較。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS2018の対応・管理・特定・評価を全肢に割当て確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原肢の事前の区切りと50/50・主観・期間比を比較。PMIのマイルストーン手法と照合。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。対話で期待を調整する活動を分類・分析・計画と比較。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原表の工数6/12/12、割当2/0,2/2,2/0と生産性2倍を確認。13→9か月を再計算。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。3工程の同一規模の工数を合計して逆数和の逆数を再導出。原式の全肢を確認。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原図の影響幅順とPMIのトルネード説明を比較。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。2021問12と全肢一致、時系列変動を確認。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。PMIのWBS→活動への分解と各肢を照合。1対多の分解を確認。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2024問12と表・料金・7条件が一致。94台月×5千を再計算。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。問い合わせ対象は成果物別の進捗。報告の内容・粒度の不足を確認。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。PMBOK6の公開正誤表及びPMIのWBS説明でスコープ→WBS→基準と境界を確認。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。NISTのcovering array定義で全2因子の組の少なくとも1回の出現を確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。公開複数サービスの組合せとコード再利用・逆解析の各肢を確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。著作権法と文化庁の委託創作の説明を照合。発注で自動移転しない。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。事業側の要求とカタログ・供給者・容量管理を全肢で比較。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。2024問19と条件・肢一致。T/2→Tのログ蓄積期間を再計算。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。情報要求と提案要求・SLA・業務仕様を比較。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。公取委旧下請法資料Q104でやり直し後受領日起算を確認。支払期日前の条件を解説に補足。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Janis原論文の公開転記と集団での同調・批判欠如を照合。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。NISTのAES鍵長128/192/256とブロック128を確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。RFC4033と署名検証・冗長化・TSIGの違いを確認。"
+    }
+  ],
+  "dataSha256": "4699dcf7392f2dfae76b584363f696d8d1edfc5fb77e70a790b2c26c9249ad43",
+  "imagesSha256": {
+    "2019-h31-haru/q01.png": "7ca5264c297047f2eac4aebf32e4de54d1f370eaa55286c46be35ab3ce7d113f",
+    "2019-h31-haru/q02.png": "2fdc631f96c2b2207d9fe4f73d408d00ad77bf4f488e6eb4dc0deed88a36d1e0",
+    "2019-h31-haru/q03.png": "cec6ff77c5a1778a00a6b312e344d44b819bde6f1c51e1ad7107bd43c7557988",
+    "2019-h31-haru/q04.png": "f74847728aa570471d99d932ee6d2028b5208a809a9e57cc65a9056a0395fa74",
+    "2019-h31-haru/q05.png": "d4d47692a2f7ddd6c965958b9eedcca471a8cab0a170a55799056a57e67c24d1",
+    "2019-h31-haru/q06.png": "415f83bdc5338e860573e54ce66860b9cd4a6abdd638cb77079089b3451bcce6",
+    "2019-h31-haru/q07.png": "01808f36f618feeefe2db88d2d98408f87536fbd1d27de00184df14da607df93",
+    "2019-h31-haru/q08.png": "9599a71b5f48e946bd4f4250e5817b1dd3243e8e32b7881a6ed2b641712f1938",
+    "2019-h31-haru/q09.png": "86757b1ef2908c5c58227f32ca5b8b64711fa451652b46b70a3d1b80ab0b9ab3",
+    "2019-h31-haru/q10.png": "919ed0e761db590df8162f2ed13ee0f0104122ddd3c2ab5c3826f3f54dd7e87f",
+    "2019-h31-haru/q11.png": "2ea9c88af777a7c1b369880a123c30bfe18892071ec7e672cbb924e1a407f763",
+    "2019-h31-haru/q12.png": "7b774bf5b14fbb5142e6a046416739c3c0e36aa0bdfa0db7333cdb01dc138477",
+    "2019-h31-haru/q13.png": "e0b7f1df096c4a5f8416794f8390b86fc83be976977df3bb60b4f82928134c39",
+    "2019-h31-haru/q14.png": "c191b5098109f384ce05599bae879fa5fbe2952a727203d3b56b5c404fd8dde5",
+    "2019-h31-haru/q15.png": "e870a5538b4fa18e7b38f8dfe8f639f69ff44f7f84ee2d322c70fe13be67c739",
+    "2019-h31-haru/q16.png": "f1c07eec703b88756407e591c0d3bde272947a2f9fbcdac6e052cece0e9bc37b",
+    "2019-h31-haru/q17.png": "376bd72d6964d59ea99a3989e03fb4f3e2ab211b7fede4b9e6ccc97db03a430b",
+    "2019-h31-haru/q18.png": "9356c14c86e5968817349d844c30694833d09c1f9139805a20375f8d3f474a7c",
+    "2019-h31-haru/q19.png": "8d39bdc876b4a37b842f0d0f41870466e0769e5b506ef7e658a2a7e330dd1754",
+    "2019-h31-haru/q20.png": "8265502b2e168c7784197fecd0541290313f0d40a72cee45ae161ccb067c9d8c",
+    "2019-h31-haru/q21.png": "d810826015e90e2256d54ff6ac0e257923cbeaa4e61d53c11df57d61e4fdf1dc",
+    "2019-h31-haru/q22.png": "d18c083990b6ce8b18b37c49472f34f5d95384c90d995ed3269c4a37e45a8298",
+    "2019-h31-haru/q23.png": "3c49eb8c373512ca8c187debee2f84be37a9615cf3b77361fc93c2818fe1a74c",
+    "2019-h31-haru/q24.png": "be43187e904ce8d53c051c94baf9e65d5fb46dbfa79a19a29ec5946d1672e598",
+    "2019-h31-haru/q25.png": "caf8f6e58bfef49e239dce4e327cd21fa1102c72b7e1586be52a1f5db20854d6"
+  }
+}

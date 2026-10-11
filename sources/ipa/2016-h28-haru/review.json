@@ -1,0 +1,239 @@
+{
+  "examId": "2016-h28-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [
+    "図・グラフ・式の分類値を共通のfigureへ統一。問題内容は変更なし。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ISO公式15504-4の能力評価・改善目的と照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原問題の全員正解措置と公式解答の不成立を照合。nullを維持し特定解を創作しない。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "開始時の不確実性と後半の変更費増加を区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "憲章とスポンサーによる公式認可を確認。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "連携作業を別案件へ移す範囲変更を確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "R/A/C/Iを確認。リスク管理を含む3誤答を区別。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "資源の利用可能日・シフトと資源階層を区別。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図のウEV>PV>ACを確認。納期・コスト両条件を検算。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "時間に沿った変動分析とツリー・原因図を区別。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "45組、週180人時連絡、実開発220人時、総800/440=1.82を再計算。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "S/(3S^1.12)の負指数と傾きを確認。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "A=.6X−84、B=36、X>200を再計算。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "匿名アンケートと集約フィードバックの反復を確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "定性の確率影響査定と定量感度分析・特定を区別。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原選択肢の順序まで再照合。両方に使う受容がウ。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "暫定結合テスト要求は方式設計。IPA共通フレーム資料と照合。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "故障時赤信号の安全側移行を確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CMMIの組織プロセス改善と個別品質保証を区別。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "XPのペアプログラミングを確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "当時のITIL移行段階と改善・設計・戦略を区別。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "機能性能縮小で継続するフェールソフトを確認。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ROI比率、NPV、回収期間、IRRを区別。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "周知義務、10人以上の届出、過半数意見、規則未満無効を再照合。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "非承認の業務ITと環境対策・盗み見・偵察を区別。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原選択肢をコピー元と照合、署名によるDNS真正性イ。"
+    }
+  ],
+  "dataSha256": "75ce4a3f2cdc28b8aaaa03921965762039db489c8e40ae84ecb6d820277a2e0a",
+  "imagesSha256": {
+    "2016-h28-haru/q01.png": "f21955b1484c7353f821f45fa6be82b98ac538ee1e9451d50e8e81ff8ab9382f",
+    "2016-h28-haru/q02.png": "8592e8da2c03a3d7983d52397b4de2712f21546f863ee06f2899ca9ca5333bd6",
+    "2016-h28-haru/q03.png": "625e0979bf096677cba8047c51e28e391cc40a7ae03c40dc2f0c56a8112c7dd3",
+    "2016-h28-haru/q04.png": "e813de751740613030bed5f07497bc7851251f84c567009f004ecff7eb1ff308",
+    "2016-h28-haru/q05.png": "a18d7089ca1159f62abf45cc6ad0a7cb67532a0bdefe305f5408638bd9c8d7b9",
+    "2016-h28-haru/q06.png": "6ca872176762a5193154509045af7196d7ced0277449c65d8a6ff0d8a7dd9fe7",
+    "2016-h28-haru/q07.png": "c721560e699b8e24ff39306db9ff8d9c171bfdc468f9a405be38fba05e5b2fc6",
+    "2016-h28-haru/q08.png": "0fa6222d5ccee4e92a69db656176a5b6491b7fefbb0a064a0dddf964f1c51640",
+    "2016-h28-haru/q09.png": "48efd4e2b9be0de026d2f7c887656288bdbfca7dc3253b212573216acd07014b",
+    "2016-h28-haru/q10.png": "5d39d09eceb5f79ef19ae8a8977345222c79661e5db63e4f2210871e10ef3992",
+    "2016-h28-haru/q11.png": "e254765bdd6be894b0fb0972bf952411becf4a5843587445ff0d7435a8205c9b",
+    "2016-h28-haru/q12.png": "908e345ac59eed3b81de78b4e40bcba04eeed738c28c5b404bbfa95d6edba397",
+    "2016-h28-haru/q13.png": "c19631d18157e9448930af99f5589b5736243fe253552546f320a67f17da82fb",
+    "2016-h28-haru/q14.png": "1aee5f6e59fd5cc59cff14b67f5d26f67909e4d237c5666589f9cfe8d7c2c6a5",
+    "2016-h28-haru/q15.png": "433bc4ff5d49bfe8b9f2621cd3d818eee122b81cfb11adc59fc96b7149348927",
+    "2016-h28-haru/q16.png": "349befc7d114e36c05b90460c48956759ef700b66611e435f17ee3ffc4a95238",
+    "2016-h28-haru/q17.png": "086c7ba3e9c3f1d43ce0d326ea8c7b9613d6964197ebc57a4d0a83d2636126c6",
+    "2016-h28-haru/q18.png": "c894cf3f5cf3e79105497d4c1213c665c95f81dbc5fdda32f581dd0ef17ab512",
+    "2016-h28-haru/q19.png": "c88b14bf3ff98733f6de45f514d3018f14ff551adfb36bcdb9035f210e139f1c",
+    "2016-h28-haru/q20.png": "361080672719b90c520a8f19b37683c10259dcf2b4fbfd13fe0cb859d1cbfabb",
+    "2016-h28-haru/q21.png": "4fec754934daf8c644477577d769d02dd77282e2b67ee06c57f596351f491d0b",
+    "2016-h28-haru/q22.png": "272314570015f4ed4188daa3cd01a1d6598bc815cd85300db5bb23474c6308b4",
+    "2016-h28-haru/q23.png": "130c0a249e52c28403b0ef526544cd166c089293213e765eeacda20a1ad69814",
+    "2016-h28-haru/q24.png": "4b9e27b9ec3b1de7ebf66b0ba6320480bc3b598f4f5ce313e9665271728908fc",
+    "2016-h28-haru/q25.png": "a3296e0eeef9ca1079290adc61a821cf71ab7bf87a2c4b56229845c44a2ccce8"
+  }
+}

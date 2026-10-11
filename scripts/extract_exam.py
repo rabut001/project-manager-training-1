@@ -14,6 +14,10 @@ def official_answers(pdf_path):
     with pymupdf.open(pdf_path) as doc:
         text = "\n".join(page.get_text() for page in doc)
     answers = {int(no): answer for no, answer in re.findall(r"問\s*(\d+)\s*([アイウエ])", text)}
+    # 正解が取り消された設問を推測で補わない。2016年春期の問2が該当。
+    cancelled = re.findall(r"問\s*(\d+)\s*（注）", text)
+    if cancelled and "誤りにより問題として成立しない" in text:
+        answers.update({int(no): None for no in cancelled})
     if set(answers) != set(range(1, 26)):
         raise ValueError("公式正解の抽出が25問と一致しません。原本を確認してください。")
     return answers

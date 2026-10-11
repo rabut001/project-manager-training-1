@@ -15,7 +15,7 @@ export function parseExam(value: unknown): Exam {
     throw new Error("問題データの形式が不正です。");
   }
   const questions = exam.questions as Question[];
-  if (!questions.every((q, i) => q && q.no === i + 1 && CHOICES.includes(q.answer) &&
+  if (!questions.every((q, i) => q && q.no === i + 1 && (q.answer === null || CHOICES.includes(q.answer)) &&
       typeof q.image === "string" && q.image.startsWith(`${exam.id}/`) &&
       typeof q.explanation === "string" && q.explanation.trim())) {
     throw new Error("問題データの形式が不正です。");

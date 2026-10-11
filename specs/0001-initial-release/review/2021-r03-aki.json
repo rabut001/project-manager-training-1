@@ -1,0 +1,237 @@
+{
+  "examId": "2021-r03-aki",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。PMOの横断支援とスポンサ・PM・チームの役割をJIS2018と照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原表の設計行R/I/I/C/C/Aを確認。RとAを区別し野村を選択。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。手続きの再利用と環境要因を全肢で比較。出題版PMBOK6の分類で確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原図のFS−2/FS+2を確認。A2,B5,C7,D8,E12を再計算。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。横棒・累積推移・依存関係・マイルストーンの特徴を全肢と比較。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。クリティカルパスへの資源追加と工程並行化・延期・残業禁止を比較。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。2023問8と全肢が一致。バッファを用いるクリティカルチェーンを照合。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原画像の引継ぎ中は双方開発しない条件を再確認。5人増員、1250−800=450万円を再計算。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。COSMIC公式の4データ移動・機能規模を照合。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS2018の特定・評価の計画群を照合。2023問12と同じ。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。棒の影響範囲順を画像確認。PMIの感度分析・トルネード図を照合。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。時系列とツリー・感度・特性要因の各説明を比較。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2024問12の原表・契約7条件と一致。94台月×5千=470を再計算。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS2018で情報の配布・計画・管理及びチーム管理を比較。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原肢の3分類と要求から設計への橋渡しを確認。他のモデル構成と比較。 再確認で誤答エの不確実な手法名を除き、三分類との相違を説明。Amblerの原著抜粋を参照。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。著者の書籍抜粋の7原則を確認。スクラム・XP・FDDの特徴と比較。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。公開サービスの組合せと逆解析・部品化・ライブラリを比較。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原表20点と5重みを照合。3/1/7/−13を独立再計算。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。安全停止と縮退継続・誤操作防止の違いを全肢で確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。体験価値とセキュリティ設計・SOA・外部連携の違いを比較。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。厚労省の意見聴取説明と労働契約法12条の基準を照合。個別合意で規則より重い懲戒を定める肢を排除。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。通報の一般概念と消費者庁の法的保護制度を区別。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。NISTのAES規格で対称鍵・128ビットブロックを確認。他3方式と区別。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。NIST用語で意図しない放射を確認。通信路攻撃との違いを各肢比較。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。RFC4033の署名・完全性・認証と暗号化の違いを照合。"
+    }
+  ],
+  "dataSha256": "29eed504ee0fe6ccdd7609d5246ca5c8e70eea3f156b463b9e4596d4fb1c179c",
+  "imagesSha256": {
+    "2021-r03-aki/q01.png": "7ee36114801e3780411417c52abb5f1b575f43dc785fb669ad2dd6c3708f2d4b",
+    "2021-r03-aki/q02.png": "b4f86a85de3385d41e5f2041673566a527e5bb92f6aad83cf066f406c24633f8",
+    "2021-r03-aki/q03.png": "be455c859bc3387bf172cacfcf92d4234e89a7be4fcee0c484ea9a663e534d04",
+    "2021-r03-aki/q04.png": "866021045318bab0c15cdc873a1b8fc65c19340d1ce6f137f1398247ba12e984",
+    "2021-r03-aki/q05.png": "3aef72ebd2e57901ee4722ea94726fe092a929e905c3760aa984e4ab9a2e3e99",
+    "2021-r03-aki/q06.png": "312d0522926ca23d00ccbe718d8c3a3e6140b718dae139a50d0ab78d2cec561c",
+    "2021-r03-aki/q07.png": "16a5205ea743450f863ca88330e420c6c5a60d0889411f01b64585e7e42e9e99",
+    "2021-r03-aki/q08.png": "899cdf8691ad81cbbb18883d6910636c02976a4dc4eba8693c2d1cce7596db57",
+    "2021-r03-aki/q09.png": "8fcaef5f4fac8cba5152db8b1471ee3546bf86933ec5d275aeb3f9a2e2a5e278",
+    "2021-r03-aki/q10.png": "2bafc554102eb363c8e2ca97e895b000ab7affec6b4d44c2bc1c8574fa572f09",
+    "2021-r03-aki/q11.png": "85a32da5d6ff6212dc127d16d0cc8c83e5b3160e70b7100a755826f9d9a83fdb",
+    "2021-r03-aki/q12.png": "7c8779e9280bae575d1e2bb8c33ea2043e1822283f369c7f79c0c717bf1adcfd",
+    "2021-r03-aki/q13.png": "419a6640f497599b71037388b46d5d303cbd3c7c57ca622792ce2ae51d704f3d",
+    "2021-r03-aki/q14.png": "ea7981db37f5d06df164385490d250c621441b706e0269217ab54f3f79581d14",
+    "2021-r03-aki/q15.png": "7813e2c7f14e32df0327d98174c600aa9522377a5dc99bb55c25a3f61138bdbe",
+    "2021-r03-aki/q16.png": "b447e38dbf16bdad59d8098af2eb5ad7d93a52c8968ae185d5ada9628d41a3c7",
+    "2021-r03-aki/q17.png": "52a80460ad2ea7adb83aba153730cd6984ac1a164c83b658bc15dac84dc212e3",
+    "2021-r03-aki/q18.png": "dc6913209deeef18360c0a65539958a257dd4ec7d6a2c2adbb913dd5653d7528",
+    "2021-r03-aki/q19.png": "6c30bcdf7e70eca75cc7e7c0cceb0038a8deb431d318e1276610b4887506e33c",
+    "2021-r03-aki/q20.png": "5c26255b084b67367ef3222290c8f38f8dafc813bc2ceeea8d6480d5cad1e740",
+    "2021-r03-aki/q21.png": "a526281fd3f048582837d30c28ffaead37e0b0fabc60b5ff3c8e5b4159ca4d1d",
+    "2021-r03-aki/q22.png": "53b7b96b15789478b5a73b3cc4c8af4d57f69da72a084308ac3e8fc9323664e2",
+    "2021-r03-aki/q23.png": "6565c0e3bbc05655d984acedd085855a1d1ad20dbeeb1b6b57af2b98279bcbe6",
+    "2021-r03-aki/q24.png": "adbfd43e2c207215bba1d3c0ef159d70018b79e589d293844312840f91ab5335",
+    "2021-r03-aki/q25.png": "81073b02359162c01cfbee6aecdb5aba30d8b3cd519676abec2ee432630f8323"
+  }
+}

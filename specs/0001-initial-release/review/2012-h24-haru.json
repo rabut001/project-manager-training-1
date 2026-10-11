@@ -1,0 +1,237 @@
+{
+  "examId": "2012-h24-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "開始時の不確実性と後半の変更コストを区別。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "4関係者の役割とプログラム管理を原選択肢照合。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "生産性S^−.12と原グラフエを確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ガントの進捗比較ウを原文照合。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "工程を重ねるファストトラッキングと増員を区別。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "45組通信180、実開発220、総工数800の比1.82を再計算。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "期間比から残り150日を再計算。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "個別原画像でイの中心線上7点連続を数えて確認。アは限界越えの別判定。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "個別画像でアは機能性と確認。OCRの誤読を避けて当時の6特性を照合。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "現在課題に集中し人格・対立回避・当事者限定を区別。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "作業担当RAMとコロケーション・資源量図・憲章を区別。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "二峰分布を機械別に層別する原因確認。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "個別事例から結論を導く帰納。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "定性の確率影響マトリックスを確認。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "償還コスト＋達成報酬CPIFと固定報酬・定額・T&Mを区別。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の設計レベルとテスト要求の対応を確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "全開発モデルで保守が必要。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原選択肢ではCMMI改善がイ。他年度のウとは順序が異なる。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "サービスオーナとプロセスオーナ・管理者の役割を区別。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "合意時間内の回復・事業継続と通常インシデント・原状限定を区別。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "NPVの1.025^tと年順を原表・全4式へ照合。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CRUDのC/R/U/Dと他3要求手法を区別。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "環境省の環境物品等定義を照合。認証企業製品全てではない。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "特許庁の具体的情報処理・協働要件を確認。特許性の他要件も補足。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "IPAの共通フレーム2007資料を確認、取引の共通物差し。"
+    }
+  ],
+  "dataSha256": "5ab4f349b17bfe037d7a074b649b3e5455345be73b1598173f9b2de5e3fe6040",
+  "imagesSha256": {
+    "2012-h24-haru/q01.png": "9231394be9212dfb78f32ec3484014bd410db9b3dc020333cf475eeab810270e",
+    "2012-h24-haru/q02.png": "fd59a934572f747bb9cdf9e9a049ac1a139d2ca78e80c81afcf875c8c8ee7c99",
+    "2012-h24-haru/q03.png": "554c847ca6905205ea66cad8fb31ad4e25c0df513d60adcf25fd045fa5177e9f",
+    "2012-h24-haru/q04.png": "671a5878e93d170381e941360cf3cbde2ea8e6872933d85b9d868d4475016d12",
+    "2012-h24-haru/q05.png": "bd082e4d4d5012f0e08b6304586a9e905e5e5491017628a95f49b2f5e2fcd3e9",
+    "2012-h24-haru/q06.png": "c86355b28c1fe445798de2ac904a5c21603cdf09b969b685f38db2bd16a8096b",
+    "2012-h24-haru/q07.png": "b376d6a3a09b62561564cd7c28f6f01c2edb2269db5397524a1b5ffcd2da7191",
+    "2012-h24-haru/q08.png": "cb86b04f27d34dc0703b08d261a846876c332062dd48be3a5b831269b063c728",
+    "2012-h24-haru/q09.png": "c939384bed84a8f0430d24dba9dace587e2bcf5e24f1988c8590c6ab460044a6",
+    "2012-h24-haru/q10.png": "5fcb1d2e606422fb5b4eb59217f3b4cd849f3cb6964e646ca476d8f206cecc5b",
+    "2012-h24-haru/q11.png": "8b43af8d5be9f5780970a1bee901daef1b6ad96b331839c9af81b19b8b4c9c25",
+    "2012-h24-haru/q12.png": "b55e68ea535139ae427c5d75a383c2eace8e74b3a8e56ed96a0b6255b5d21320",
+    "2012-h24-haru/q13.png": "249d92cf005a3625dd63a8d13f75e95159ea408de91df22f2f3193d149def829",
+    "2012-h24-haru/q14.png": "3e60bc69b9e0fd525fe63969b3c75587de9e5bc4b4996a5a794e6d375ae9949f",
+    "2012-h24-haru/q15.png": "9d7e29925b79e612abff5e3b75b013da90f3697d69514fc40ef58de87b4a088f",
+    "2012-h24-haru/q16.png": "cbf7fc9951e1b70f11aba8bf4a4972cd9f6f8b05b13cf94be47d4e6c7fc1da35",
+    "2012-h24-haru/q17.png": "26c78217685d421b276f996d812d4a82ede66b0e7ce736d31967762025078de9",
+    "2012-h24-haru/q18.png": "e5e3508e739e3dd464c4be7b8af9f586e99dc45eeb580dc7826ea796b379392c",
+    "2012-h24-haru/q19.png": "63ac1ae0e27848999cc95be0ffa5beb290cc9652f46c7e7186f1380f82b10712",
+    "2012-h24-haru/q20.png": "d1d38b2f4665f6c05197580ba535c784709935e4911d6f090e79f5008a8ac450",
+    "2012-h24-haru/q21.png": "9627457fee6c3c5a5e4becb8e7d0cf75f149aae9a630114d5b2651a484765536",
+    "2012-h24-haru/q22.png": "4104deb904f7e91a3b86ca1988fe64ae6ead1a09221c8b0d96e66009e2040ac7",
+    "2012-h24-haru/q23.png": "8cefdb506dfdc4c79f553329fb5b3c69b1fcce150f99a67ddb74e79b2644bba0",
+    "2012-h24-haru/q24.png": "9956774f1a6a66798417d96f07666735da9821d2c7cd978d2b7970ad07132234",
+    "2012-h24-haru/q25.png": "35093f6846c0c4caa9475a98efc020796f36049b5d2666caa6b4c35e02a6d79f"
+  }
+}

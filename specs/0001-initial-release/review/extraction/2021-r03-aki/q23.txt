@@ -1,0 +1,2 @@
+間23 暗号技術のうち, 共通鍵暗号方式はどれか。
+ア AES     イ EEGamal暗号 ウ RSA     me ries

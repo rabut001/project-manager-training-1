@@ -1,0 +1,237 @@
+{
+  "examId": "2010-h22-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "憲章による開始の認可と方針・資金・計画告知の違いを確認。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "生産性=(1/3)S^-0.12を再計算しエの曲線形状を原図照合。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "成果物と作業、除外事項、WBS作成の順序を全肢確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原本のガント選択肢順とトレンド・ネットワーク・節目の説明を確認。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "作業依存と資源制約がクリティカルチェーンの特徴であることを確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図の横軸期間・縦軸予算消化率を確認。同時点・少額なのでア。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "PV8000・EV7000・AC8500・CV-1500・SV-1000を別工程で再計算。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の期間比を再確認。228/.57=400、残22+44+84=150日。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "SPA能力評価とライフサイクル・品質・PM知識体系を確認。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "当時のJIS品質特性の全肢を照合。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "平均修正時間と他の品質指標の意味を照合。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "Y理論の責任受容、承認・安全欲求、X理論を区別。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "市場構成比・科目率・桁違い時系列・相関の各図の適否を確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "定性マトリックスと3つの定量手法を確認。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "2010年当時のBPMN1.2の統一表記をOMG原資料で確認。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "モデル作成方式が異なっても最終正規化・業務属性は必要。全肢確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図の白抜き三角と汎化・継承・インスタンス・特化の違いを確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "OASISのSOAとWebサービス技術・検索・SLAの違いを確認。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "既存実装から仕様への復元と再構築・再利用を区別。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "縮退継続と安全停止・誤操作防止を原本全肢照合。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ITILv3緊急変更の体制と標準変更・サービス要求の扱いを確認。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "操作性とサービス時間は非機能、機能対象・データ仕様との違いを確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原本の選択肢エの内部設計〜結合を、モデル契約の完成責任と準委任工程から確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "通常派遣の派遣先指示、候補特定・面接不可、請負との違いを確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "OECD原資料のデータ内容・公開・管理者責任・利用制限の定義を照合。"
+    }
+  ],
+  "dataSha256": "ba6fbb685781a80b2212d7d6ccd73fd63bdd0eee01dde3037dd19323e80ce289",
+  "imagesSha256": {
+    "2010-h22-haru/q01.png": "ce7dd433193bd8855efb1335a23dd2bc004f8b8513a4c7400041637d583a1607",
+    "2010-h22-haru/q02.png": "6df66f19a2e9409e3efb84fcb87b5313260da96f917dffb156e5b4a0c8de943d",
+    "2010-h22-haru/q03.png": "46ed30c363b0ca6fd7c14ecccbfcec132ecd7b8b10060e1e91f969a1c581fb87",
+    "2010-h22-haru/q04.png": "fbcdef2330714907ae37fd605571e2d75eea743eb6ec261b8e97f99f7ff632ce",
+    "2010-h22-haru/q05.png": "77d5c643e058cdc297796e46eff7803acef37e6e5f83de0d4876d0396d6782bc",
+    "2010-h22-haru/q06.png": "ea8ba53c3f4ff7ec573fad6a084c2b8b11b820f9d231568b39b4b1ad087dc7d4",
+    "2010-h22-haru/q07.png": "08cfcb71d3ea36440661d6d3d055b4ba1ba365b30e1b72c780d01762d65e08de",
+    "2010-h22-haru/q08.png": "98eac3c33c3d37a28a331f278603d1115f8c8148795566288ae6c673a296de0b",
+    "2010-h22-haru/q09.png": "3853de47051462e4c67c2c0830c2ac94b0bda01e15cbfa467be124fe8d46f2c1",
+    "2010-h22-haru/q10.png": "aae55f37e589ed02aa4e07e3d94e51fad45a595f5420b65c1a9c55090c7cd35f",
+    "2010-h22-haru/q11.png": "bc0f216c61b2baeae019211cdc892281da9211a8c3f139137e91e4032e32c488",
+    "2010-h22-haru/q12.png": "36b7d91df74481bb15b52e812d5e1049ad75fa18432fe6a0156a4dcc9fd76162",
+    "2010-h22-haru/q13.png": "0507d7824016a9c4e50830cb60503758a27ebef5f3d4f7788c302d0e55825c2c",
+    "2010-h22-haru/q14.png": "f8e7a83e558af3c8b0d3fcb46827dda23f746fb4b84659e7af4a1894a4efe914",
+    "2010-h22-haru/q15.png": "a81aebfe60b4eb2e86841931295e66691caecc4fc26d2893c4850aa98c8bfb26",
+    "2010-h22-haru/q16.png": "3e4fd386780a5dc046bf66f4acff65f52e54309e3cc61f10a7819f75aaae4b4d",
+    "2010-h22-haru/q17.png": "9553ea77cf49a37c177aeae0710b73bf0354d903f8bf6a89e1dcd835844ca74f",
+    "2010-h22-haru/q18.png": "00c2aa82d58b239976d9791daf4a41a700e33f01840f031a960f9be17553ee68",
+    "2010-h22-haru/q19.png": "07a2fcf1d6aca1251e56afb847e5d1235cd6c1e8173293ac107308bfdb823115",
+    "2010-h22-haru/q20.png": "919a8df54d183cfaabfd8bc31ebe9b4cb077705ac123f1d3adc33edabd9550a7",
+    "2010-h22-haru/q21.png": "2d16122df832e5a23d520b12e79fd283f7a95a18712d5615d0404e3f42f62cd6",
+    "2010-h22-haru/q22.png": "97277bc9b2bc17fd8fd755c275059406071517f28bba54b9d9d6298411c135ba",
+    "2010-h22-haru/q23.png": "779c98e6eb41bc467ab35385bb6551abd5bc2d95d86138c7150fb79a14e9587c",
+    "2010-h22-haru/q24.png": "09d08b9e7fac488303003326c78317ad046ae085bfd2fdd1397afc77a05252d0",
+    "2010-h22-haru/q25.png": "e0ef9822ce9930ff55344145ee11edd14e0bdabd484a39134b9759ef78cb5c4b"
+  }
+}

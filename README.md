@@ -2,7 +2,7 @@
 
 [system-arch-training](https://github.com/rabut001/system-arch-training)の画面・演習操作を引き継いだ、小さな静的アプリです。React・TypeScript・Viteを使用し、回答・チェック・現在位置はブラウザに保存します。ログインやバックエンドはありません。
 
-現在は**利用者レビュー用の2025年度秋期25問**を収録しています。画像拡大・採点・解説をこの見本で確認した後、2009〜2024年度の16回を追加し、全17回・425問で初回リリースします。
+**2009〜2025年度の全17回・425問**を収録しています。IPAの原問題画像と公式正解を使い、正解の根拠・各誤答の理由・必要な計算手順を説明します。2016年度春期問2の公式取消を反映し、採点対象は424問です。問題画像はタップして1・2・3倍で読めます。
 
 ## 開発コンテナで起動
 
@@ -50,7 +50,7 @@ npm run build
 npm run test:browser
 ```
 
-390×844、320×568、1280×900のChromiumで、画像25問、選択・採点・クリア・保存、直接URL、拡大を確認します。iPhone SafariやAndroid Chromeの実機確認は別途必要です。
+390×844、320×568、1280×900のChromiumで、全17回・425画像、公式正解による採点、取消問題の除外、年度別保存、選択・クリア・直接URL・拡大を確認します。iPhone SafariやAndroid Chromeの実機確認は未実施です。
 
 ## 構成
 
@@ -82,7 +82,7 @@ python scripts/review_images.py 2025-r07-aki
 
 画像は`public/data/<id>/`、OCRの下書きと抽出した正解は`test-results/extraction/<id>/`、確認用画像一覧は`test-results/image-review/<id>/`に作られます。下書きを進行中の案件に保存したい場合は`--review-dir specs/0001-initial-release/review/extraction`のように指定します。完了案件は指定しません。抽出は執筆済みの`questions.json`や内容確認記録を上書きしません。
 
-5. OCRを原本と照合して問題・選択肢を転記し、`questions.json`に正解・解説・参考資料を記録します。図の選択肢は形状の説明を記録し、表示は原画像を使います。誤答の計算過程は推測しません。
+5. OCRを原本と照合して`questions.json`の補助テキストを整え、正解・解説・参考資料を記録します。補助テキストは意味を保った要約を含み、図表は原画像を参照します。アプリの出題本文は原画像です。誤答の計算過程は推測しません。
 6. 執筆後の別工程で、原画像、転記、公式正解、各肢の解説、計算、出題当時の版・制度を確認します。現在の内容確認記録は`sources/ipa/<id>/review.json`に保存し、その写しを進行中の案件の`review/<id>.json`に残します（初回案件の記録を雛形にできます）。実際に確認した後で、`questions.json`のSHA-256を`dataSha256`、各画像のSHA-256を`imagesSha256`に記録します。内容を変更すると再確認が必要です。既存データの修正では、現在の記録を更新して新しい案件に写しと修正理由を残し、完了済みの過去案件は変更しません。
 7. 確認が済んだ年度だけ`public/data/index.json`に追加します。問題の年度ID・番号は進捗保存に使うため、変更しません。
 8. データ検証・テスト・ビルドを実行し、改修案件に結果を記録します。
@@ -93,7 +93,7 @@ python scripts/review_images.py 2025-r07-aki
 
 対象リポジトリ名を`project-manager-training-1`と想定し、Viteの`base`を設定しています。名前や公開パスを変える場合は`vite.config.ts`とブラウザテストのURLを合わせて変更してください。
 
-GitHubへの登録後、Settings → PagesのSourceをGitHub Actionsにし、`pages.yml`を手動実行します。公開操作はまだ実施していません。初回リリース前は次の検証が全17回の収録を必須とするため、見本だけの状態では公開ワークフローが停止します。
+GitHubへの登録後、Settings → PagesのSourceをGitHub Actionsにし、`pages.yml`を手動実行します。GitHubへの登録・公開操作はまだ実施していません。公開ワークフローでは、次の検証で全17回の収録と確認記録を必須にします。
 
 ```bash
 python scripts/validate_data.py --release

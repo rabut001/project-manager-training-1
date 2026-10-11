@@ -1,0 +1,237 @@
+{
+  "examId": "2013-h25-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "利益・不利益と社外・間接・組織の関係者を確認。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "工数49.66、生産性.201を再計算。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "不確実性低下と変更費・資源投入を区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "憲章の認可・権限と他3文書を区別。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ワークパッケージのアクティビティ分解を確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "範囲の成果物・作業・除外事項とベースライン作成順を確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "全体バッファの安全区域による管理を確認。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図のダミーを含む17日経路と2人割当てを再計算。作業33人日で1人不可。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "クリティカルパスへの増員はクラッシング。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "D最早開始4・最遅11・総余裕7日を再計算。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原グラフのウEV>PV>ACを確認。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "IFPUGの2データ・3トランザクション機能を原表確認。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "平均修正時間と3別指標を区別。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の設計A野村と他役割を確認。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "A/Bの純期待値、200万円より大きい境界を再計算。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "WCAG2.0のキーボード・色だけ不可・ラベルを参照して選択肢確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原SOA選択肢と再利用・疎結合を確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "反復するスパイラルとプロトタイプの一律必須ではない点を確認。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "性能縮小継続のフェールソフトを確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "一連の更新完了で整合性ある復元点を確認。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "操作性と機能・インタフェース要件を区別。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "国際エネルギースター公式の対象機器と制度を確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "EUのRoHS用途と他環境規格を区別。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "PPC定義の生存・識別可能性を確認。顧客・国籍・秘密に限定しない。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "JISC公式の役割と当時の工業標準という名称を確認。"
+    }
+  ],
+  "dataSha256": "a1ada7faff27f6caca9c1bd6194d152d089add5558ae2b23841b542e38aaeb6b",
+  "imagesSha256": {
+    "2013-h25-haru/q01.png": "24dd9aa4e95961b6b4626b00e9537ebc98984ca86743fb65098a68f57e14c7eb",
+    "2013-h25-haru/q02.png": "9c140883d8ccef9260bb752b52905abecd872884be6a8b19c0e5ad97f238d3d8",
+    "2013-h25-haru/q03.png": "8a817240178d1d66d8b608a6135739bf8307e352b3f2a2c2337867939ef59265",
+    "2013-h25-haru/q04.png": "800fdeddc3f1dd501754b5b069eeef03a06f0ed38d111d99bcb85dfcb7ddd4a0",
+    "2013-h25-haru/q05.png": "898be05ce0f01ae38d658ba26547a360007fe760cb49bc392345fb1c546ac934",
+    "2013-h25-haru/q06.png": "31ceee50391f137d6e81aa09f53e5470d2c9ebbfacb5505186d7b3b811fb1f05",
+    "2013-h25-haru/q07.png": "937d3ec333b525f25746fc6317b3b71c62c21ed39641ee4074a83a46481d41b6",
+    "2013-h25-haru/q08.png": "ef3fcc912d3f22f6d93b87df8ee4e455da9444409af44fe41dd57da5963760ca",
+    "2013-h25-haru/q09.png": "8f56e69256cfa0b62ef4f61a0f0707553d4911b7421febc258546bca629789d1",
+    "2013-h25-haru/q10.png": "8d578e89af91703c4da6364b109a3a1baebbbc56c10ee185ceb9acf5377dc6a2",
+    "2013-h25-haru/q11.png": "ebbb7ef7f5a73bff563a8906d171ad987ece842f546e1d9db193698c873a29ff",
+    "2013-h25-haru/q12.png": "df86a1bd66da42b2923ee70b2d43c25b5d7fd64b62e75fe1e6bb1ea20bbc3eaa",
+    "2013-h25-haru/q13.png": "4cdf079226f58d61b76494ea4f75ee8f537f8c4324cb49f4309a8ff87e766af2",
+    "2013-h25-haru/q14.png": "80b9524108dfcda72f5a93f1b4b735b7eed22a275c9d93be973f0392beef113b",
+    "2013-h25-haru/q15.png": "193a05c73f0bec07091e285695482f6b5923955464dcfe09dfb5172a8cb828d8",
+    "2013-h25-haru/q16.png": "97b0d6487adce1dd36f06100f046d15a42bf3b9aa8e35a8cc12686eb23958ee6",
+    "2013-h25-haru/q17.png": "10a349cb43cb36106bf94621d0bdfd31b96a510bafca0109732891b541efddd2",
+    "2013-h25-haru/q18.png": "346aa9849d21953ec1579161ac2b76296ec7a97bf9ae7e26394d67754f0e8567",
+    "2013-h25-haru/q19.png": "a5d62f20280b1fade1770195ef0cdbb02ee4b0ed8e7bb7210becb3ebb2e8c72f",
+    "2013-h25-haru/q20.png": "eea41525a0bdae5c4190458bd9a00a0e303078b6df477cf7b4f4048aa89a3340",
+    "2013-h25-haru/q21.png": "89f2329a310bfcaea66192537f348d03858d8d2248121bcf25deb06ed2150b26",
+    "2013-h25-haru/q22.png": "dd72ab876e32375f17969491376489a1365199c5447b1372ea77526622410d4f",
+    "2013-h25-haru/q23.png": "46dd667faec587d5b5a5e4b2719c9c1272f3b4f55d1790fd610160e2c361ad3b",
+    "2013-h25-haru/q24.png": "71725173e367453c39e8c18a634b4fc4dab776f088d0627c1fe04d312e71e327",
+    "2013-h25-haru/q25.png": "af98c49ccbc7c57fb04bc74ecbc6be3c8ff24956a830ce1da3f1325b237284fa"
+  }
+}

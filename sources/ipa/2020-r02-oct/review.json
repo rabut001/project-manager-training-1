@@ -1,0 +1,240 @@
+{
+  "examId": "2020-r02-oct",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [
+    "問20の番号検出漏れを原画像で分離し、問19との切り出し範囲を補正。",
+    "問10の短すぎる切り出し下端を補正。原ページと全画像を再照合。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2022問1と肢順・条件が一致。実行と管理の変更要求の往復を照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。JIS2018の統合的な作業管理と品質・チーム・変更管理を確認。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。2022問2と意味が一致、憲章と他3文書の違いを確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。RACIの四役と肢順を2024問2と照合。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。80%/70%/8500/1億を原画像で確認。PV8000,EV7000,CV−1500,SV−1000を再計算。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。開始・終了とWBS・依存関係・余裕時間の違いを確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原図全辺と日数・ダミーを2024問5と比較し一致。最遅H21を再計算。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。PMIの資源制約によるクリティカルパス変動と平準化を照合。円滑化・CPMと区別。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原図の指数1.12と4曲線が2022問10と一致。負指数の生産性を再導出。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。切り出し下端を240→360へ修正し、原ページ8と全枝・凡例・4肢を確認。A=.6X−84,B=36からX>200を再計算。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。好機の強化・共有・積極受容・消極受容を各肢と比較。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。原画像の除算記号を確認。平均修正時間と欠陥密度・移植・要求頻度を比較。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。9000/8000/70%/1000の条件から1000+700=1700を再計算。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。JIS2018で計画と情報配布・管理・利害関係者特定を比較。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Kirkpatrick公式の4段階とa〜dを照合。理解度テストはLearning。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。疎結合と状態保持・抽象名称・再利用禁止の肢を比較。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。2022問17と全肢が一致。ユースケース駆動と反復・アーキテクチャの違いを確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。DAの論理・項目標準化とDBAの物理容量・性能・復旧を各肢で比較。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。壁屋根の熱伝導と室内発熱・外気・日射の違いを確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。Stanford d.schoolの利用者共感・問題定義・試作・検証を確認。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。個人情報保護委員会の定義と外国人・公開情報・死者情報の留意点を確認。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。厚労省の派遣の雇用と指揮命令関係、派遣元36協定の範囲を照合。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。2022問24と肢内容一致。cookie保管と証明書認証を確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。FIRSTの出題版v3.0仕様で0〜10、3評価群を確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。IPAファジング資料と入力・動的観察を照合。"
+    }
+  ],
+  "dataSha256": "dc27f77f9323310fdc0790bb5470f7306350b5718fb7be6ee01a1de30c62b7f0",
+  "imagesSha256": {
+    "2020-r02-oct/q01.png": "f9894d149f388f4e958ee6156a301c6d3f0652da9183df4558c728aec5cb3e51",
+    "2020-r02-oct/q02.png": "0cd4b70f0813c70762144a2acb87f1defbd768c251d1cfe6f30b14fe8d857d6b",
+    "2020-r02-oct/q03.png": "9e48c9ba08d1a548afe7ae7321188c29a7bed4ad3a870880750590a0e98c1690",
+    "2020-r02-oct/q04.png": "d1e98f6801949f672d4776f390a4323d8e4ff8767c634bb237e94f6b8e66b33c",
+    "2020-r02-oct/q05.png": "d8fb6fc0fac6a9ef89d6b7feb08d6db958a8a7b5fd4102341b53b73fb6639386",
+    "2020-r02-oct/q06.png": "bba0c16d9fbde1ef5b0a411d0fe19a7d365e43d10f21f949dbf8e52543580927",
+    "2020-r02-oct/q07.png": "8f8af06daf6cf2990b56c4dfab2d0f49fb5fea2242d20125f68b24d1be78cf8b",
+    "2020-r02-oct/q08.png": "d23427e20aa888fcca528b857ce13722ff3f7cdbad9eaf5814dc45e9e6c2e0e9",
+    "2020-r02-oct/q09.png": "f7f88c61af379a87c27c29e64ad40ede561e8f0c39e5a49b13cb5ae713d28c61",
+    "2020-r02-oct/q10.png": "976843cf6e873801d1c0d3c3dcfdee2cabb312f66d488b7904e078d44634f34d",
+    "2020-r02-oct/q11.png": "152548548ca17994a10e86dab05b7c5cdf99a6f02407bd84746dec0ec487f601",
+    "2020-r02-oct/q12.png": "6d3bf121f8fb5ade6d89d9b812e27dea1005262a8066eb2734b499fd7917d85d",
+    "2020-r02-oct/q13.png": "5840172a512e07a6a681266a3eb017f82fa7605e7621f8a36c94d99cb20a8a49",
+    "2020-r02-oct/q14.png": "69c10fb1624903ca0180b13a27c10bbc8f669b1eefc2abf771662711cd44898f",
+    "2020-r02-oct/q15.png": "f7a936a6c9ad6d4f6a0e11fd9773614ced0b308dc648fd11fcaf4953a5dab5f2",
+    "2020-r02-oct/q16.png": "bcdab4d93977a922ddb5b0be7bb38b7c300c42929fe12e440c055bb2f0567d04",
+    "2020-r02-oct/q17.png": "50925b3c4fd75efef14bf7cf2e19ece062696cc2945e62eb26801a92c2188459",
+    "2020-r02-oct/q18.png": "f8e6c94f3e78a68db77f54c79e7801a9ecb941af2409a765baa65a1af6b34081",
+    "2020-r02-oct/q19.png": "d114b58315b6cbae2f7837516391df29327e07677899e760c0a59fbacca33cb7",
+    "2020-r02-oct/q20.png": "afc217054cd421ae42201acf298d5ec92564c9112fd7b08bd5dbcc0a6d3772ed",
+    "2020-r02-oct/q21.png": "0aa3b6145e5a64e633597fd8475d1e21c5150ee6d7f2c9fced5fe6e82083d298",
+    "2020-r02-oct/q22.png": "3632199ba05c4f616386c7a30b6b01e7884f93176b6481fbea7541e9d7a3806f",
+    "2020-r02-oct/q23.png": "ec07208ce9f217674dbac9a02977bb27048f6cdc23227e4029f9a376a4a7212a",
+    "2020-r02-oct/q24.png": "ab29fd26dbea7a46ab2065ac6c7c5552d8e3bd9883f7329cd47cb09f532aa3be",
+    "2020-r02-oct/q25.png": "f272858a9715a1837d0e44056282e5f5e79cc559f44348950d7e6ec8a866f4f5"
+  }
+}

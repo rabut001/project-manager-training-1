@@ -1,0 +1,241 @@
+{
+  "examId": "2017-h29-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [
+    "初期抽出で不足した問2・3・22の領域を補正し、25問の全選択肢の完結性を確認。",
+    "執筆後の再照合で問19の選択肢順、問20のコピー元、問23の補助文を修正。",
+    "図・グラフ・式の分類値を共通のfigureへ統一。問題内容は変更なし。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "バッファ設計と生産性改善・クラッシング・並行化を区別。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "手順はプロセス資産、許容度・インフラ・文化は環境要因。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "実際の遅延回復と予防・欠陥修正・更新を区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "将来作業の段階的詳細化とWBS辞書を区別。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ワークパッケージからアクティビティへの分解を確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "表の設計行A=野村、R=阿部、I=伊藤佐藤、C=鈴木田中。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "主張・対立はStorming。他3段階と区別。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ガントの計画実績比較と相互依存分析の限界。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "追加資源によるクラッシングと並行化を区別。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "A0,C4,B10,D12開始で全体16日。15日不可の支援順序も再検討。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "完了量のベロシティとポイント・バックログ・グラフを区別。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CPI<1はEV<AC。AC/CPI単独では完成予測にならない。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "IFPUGのデータILF/EIF、処理EI/EO/EQを原表と照合。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "同一規模Sの工数を合計して逆数和の逆数を再導出。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "要員表と条件を照合、94台月×5=470を再計算。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "検査なし3000、あり2000、差1000万円を再計算。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "地図サービスと店舗情報の組合せがマッシュアップ。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "Fowler定義と照合、振る舞い維持と構造改善。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原画像と選択肢順を再照合し、ログ反映はエに修正。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "コピー元違いを再照合で修正。DAは論理設計・標準化イ。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "経産省モデル契約の工程分類を確認、準委任はa/d。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "36条協定の締結届出と裁量・変形・フレックスを区別。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原画像ウは派遣先責任者。管理職限定義務の誤りを厚労省指針で照合し補助文修正。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CSIRTと認定・CRYPTREC・当時のNISCを区別。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "侵入試験と仕様・性能試験を区別。"
+    }
+  ],
+  "dataSha256": "a5ff543996a1208f90490d7b6c7ccbcf661a3d9fe89eaf6378c44c4fc3ef7185",
+  "imagesSha256": {
+    "2017-h29-haru/q01.png": "c478268177f1ae7b58988d8b1b3982cf9a71c84f19e1e65d1328a61a14218dd4",
+    "2017-h29-haru/q02.png": "9c6b2547ac586be931b538605647b77c91174a34cf76a7b4a37f897bde3ce435",
+    "2017-h29-haru/q03.png": "69df55a12104608293908888189045099a7ebd659309dd7104c7f85de714b110",
+    "2017-h29-haru/q04.png": "7a94eec8644b58ed6ec059780de74b97c516b34ba4abd3058bfd8f7859e5d656",
+    "2017-h29-haru/q05.png": "71fc3797dd21ac8c6a17512030449200ef65ce406cb6bef029959fcb1d59518b",
+    "2017-h29-haru/q06.png": "ba4c5349e371914e995e4cc320200e67bc1a62b9cb8684798d8a05a2ae6d4751",
+    "2017-h29-haru/q07.png": "e45954481d367a1c6f4166feb020de32375ddb2b19eb56ae44838f73be2bb6f9",
+    "2017-h29-haru/q08.png": "627a367dc4bbd06f451141cfc4a6b6596084483ff877ecb3d08f9b1963ca807d",
+    "2017-h29-haru/q09.png": "8029bd2b31895a08c764239c52c98a15d840d7c22505576b867c3907a4826ccd",
+    "2017-h29-haru/q10.png": "9ddbda4de033f0aab55432c4111a7e172059c335168a420097ef1cdc33d7016c",
+    "2017-h29-haru/q11.png": "e38167052224d808a3f190e4ea33b9b102ad70baa261c201ef41b77a62d2f50f",
+    "2017-h29-haru/q12.png": "9fc0c1b417f9252cfd23e6ffb7d2904d24ec2ff932990219bcb3582346916214",
+    "2017-h29-haru/q13.png": "2539f4f5b07e83ed87cd0857cea0c91649b9d75e44b5e02406042164cb6faf3b",
+    "2017-h29-haru/q14.png": "4b008c8b9bd8e9f84c45c2b1c42db4df14aee352246a25d537331483a8badb29",
+    "2017-h29-haru/q15.png": "e0495ba843254ab0d7520c2e6c58d92476fbebb003d2da1654e70ed79e130e9b",
+    "2017-h29-haru/q16.png": "c6905e01a1bdd565ea56a5316ac3c9233c39cbb149203bc13f93da4cf465ca85",
+    "2017-h29-haru/q17.png": "efdc91f26213f5267c1969e621901ef6b2bb781dfaa41e3bf813f692997d677b",
+    "2017-h29-haru/q18.png": "f7a2c7a0d0c909edf02ebbb71da633a18755e36b72b905a928f5a939df2556dc",
+    "2017-h29-haru/q19.png": "330ceb301a9256609e0fc12c2a8ba22ad374fdfffc94e7f456f043d3490c6f50",
+    "2017-h29-haru/q20.png": "97afb6f3ddb125aecc9a639af7d92b273425c3c4cca23620e88d6cb4122f20af",
+    "2017-h29-haru/q21.png": "ff76ce97b8b7dce5d750343cee597cabc37f61fc143cf9365ffc6adfcc229259",
+    "2017-h29-haru/q22.png": "d060ca1ba9b539502043ed56bfa9f9a84d9c255d6289cca82b95d8bf5f2781cf",
+    "2017-h29-haru/q23.png": "5419ed6fe9fb2fbf4b5ee51262a9c4f99c18adab7f489a1ee0ed88ca139497de",
+    "2017-h29-haru/q24.png": "e354718972f9a3876f08653535eab1866523dd85b882b1881415e547fc7245e1",
+    "2017-h29-haru/q25.png": "ab678a88276b87bb5f0d7d52d7dd988be12f975928dee847819c3f23e2089a82"
+  }
+}

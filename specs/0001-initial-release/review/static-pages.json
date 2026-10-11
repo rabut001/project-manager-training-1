@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-12",
+  "method": "Python静的HTTPサーバーでdistのみ配信。SPAフォールバックなし。",
+  "base": "/project-manager-training-1/",
+  "examRoutes200": 17,
+  "questionImages200AndIdentical": 425,
+  "assetFiles200": 2,
+  "privatePaths404": [
+    "sources/ipa/manifest.json",
+    "docs/product.md",
+    "specs/README.md",
+    "AGENTS.md"
+  ],
+  "unknownRoute404": true
+}

@@ -1,0 +1,241 @@
+{
+  "examId": "2023-r05-aki",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後に原画像・正解・根拠を別工程で再確認）",
+  "method": "原画像一覧25問を執筆前・執筆後に目視。転記の全肢、図表全セル、公式正解、解説の各肢説明を照合。計算を独立に再計算。規格の公開資料は閲覧範囲とホストを各注記で区別する。",
+  "corrections": [
+    "問24のOCR問番号検出漏れを補い、問23と24の原ページを見て切り出しを分離した。",
+    "OCRの選択肢文字、規格名、数字、図表を原画像から転記補正。",
+    "執筆後の再確認で問18のハードウェア導入費用の名称を補正。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。状況文のイテレーション1〜6と5延長を全行照合。宣言原則の変化歓迎・短い期間・対面・動くソフトウェアと全肢を比較。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS2018年版の全体計画、資源見積り、組織定義、WBSを照合。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。JIS2018年版の表でスコープ定義は計画、品質保証・チーム編成は実行、憲章は立ち上げを確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。ステークホルダ管理とコミュニケーション管理・計画・利害関係者特定の全肢を照合。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。表のBAC100/PV50/EV40/AC60を照合。CPI=2/3、EAC150を再計算。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。表の担当者・先行作業・HP/ABP・90%/50%の注を確認。①②④の11日+バッファ2日=13日を再計算。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。図のA→Bと独立C・D、表の所要日数と支援時点を確認。15日不可能と16日実行例の資源競合を再確認。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。PMIのクリティカルチェーン説明と合流・プロジェクトバッファを照合。クラッシングとファストトラッキングを区別。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。人数10・40時間・440人時・1組4人時・切捨ての条件を確認。45組、180人時、2週、20/11=1.8倍を再計算。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。表1〜4の全セルと調整条件を原画像で確認。3+6+3+5+33=50、0.9倍=45を再計算。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。PMIのEMV定義と次元を確認。影響×確率を各誤答の式と比較。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JIS2018年版の計画・実行・管理・終結の分類を照合。途中で繰返すことと所属群を区別。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。組合せ表の全行を原画像で確認。JSTQB2018.J03の作成者主導ウォークスルーと役割付きインスペクションを確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。汎化・特化・所有関係を各肢と比較。OMG UMLの一般化関係と整合。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。スクラムガイドの1か月以下の固定期間を確認。XPのプラクティスは必須ではない。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。ISO12207:2017原規格の公開転記5.6.2〜5.6.5と四群を照合。第三者ホストの転記で、公式サイトのJIS全文閲覧ではない。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。文化庁の著作権テキストで委託の場合の著作者を確認。著作権法の帰属と特許・ソース公開を区別。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原画像で4案の全費用を確認。再照合で「ハードウェア導入費用」を修正。3年TCO161/172/153/157を再計算。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。JSAプレビューの9.2内部監査・9.3マネジメントレビュー・9.4サービス報告の構成と公式正解を照合。適合性の監査と実績監視を区別。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。全肢の対象を比較。検証方法と費用、優先度、関係者識別、完全性を区別。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。e-Gov2023年1月5日時点の3条2項で必要な限度・相当な理由・意見照会の条件を照合。出題当時の制度として説明。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。厚労省36協定説明で締結・届出を確認。裁量・変形・フレックスと区別し、届出後の無制限労働と誤読しない説明を確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。IPAのCC FAQで製品評価・保証範囲・EALと機能強度の違いを確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。証拠保全と透かし・侵入試験・社会工学の各説明を照合。RFC3227の証拠保全原則と整合。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。IPAファジング資料で異常入力と動作観察を確認。バージョン照合・静的解析・アドバイザリ確認を区別。"
+    }
+  ],
+  "dataSha256": "b86114e4eb218d5d9863daef5b5f8c4293b58875c6dc38935db758796e92a949",
+  "imagesSha256": {
+    "2023-r05-aki/q01.png": "75106a589f4f0c98a96af6b543422dfbd7d3a7737ed37a9fc0d4de98b29a5f23",
+    "2023-r05-aki/q02.png": "70b051a2be56c8e67d979909e9b5dee3c9a0c5dbafbf7a06fce702b70b31d648",
+    "2023-r05-aki/q03.png": "f0122a26d807396cdc663d39555dd14670aca7095f06409dc12dd089d284a1d3",
+    "2023-r05-aki/q04.png": "5f126ed07c2e67d10f79f111a13d9a3b5c9390d0325e8edb40b397ede10b0054",
+    "2023-r05-aki/q05.png": "5c5b91fe283410b3e312ae1f0580ed6a560b439bab4a7d23bc9a0acd28a96dae",
+    "2023-r05-aki/q06.png": "bb711323eee4ec661b0f118dc78fbd9b9060a0b5d46a72f29120ae8ccaa9b2e1",
+    "2023-r05-aki/q07.png": "732a04f9bfc50ca6549804bdeb74fe3d98fe515dd24cdab8058625ee2c1ae1d4",
+    "2023-r05-aki/q08.png": "46926200313e701c7f759293d3648cbc19fc96ecd83b2295b27a37a61383e877",
+    "2023-r05-aki/q09.png": "6ccc7920dd37e1f60786d5c25c2625c7c4683beb6b2ea964bdb968a9544e2367",
+    "2023-r05-aki/q10.png": "5ac92d2a6ae104e147765c1706632ef305c8a10fb15145d8c77fdba9e8b431c4",
+    "2023-r05-aki/q11.png": "e894bac52a376148e68ec3b8f0727f66d227db702482404d0928f5ada16984fe",
+    "2023-r05-aki/q12.png": "567e36dc8fc59b65d611e9e5c5d78be41bf65068f9b44488960f40062bc09f1c",
+    "2023-r05-aki/q13.png": "97cfb0a423bd76f973481ef3ecf2187433374eebff4beae2208b890ae9281bd3",
+    "2023-r05-aki/q14.png": "57ace868db2fff856e4fdc7ac4bc4329504b76bac7a93431dadafe9fba885460",
+    "2023-r05-aki/q15.png": "12866daa840ad761558f96441b83c1bc066b4a8d9b78ce622bda7e7f7c9e38b5",
+    "2023-r05-aki/q16.png": "035ec0b019f4008c2a217828028a4a0b5805de33ce43ca7912f39c6c9116160e",
+    "2023-r05-aki/q17.png": "b0e4493c6dbf1636481384eebc537dde742b9f5a4216c04c0d4616de122ead9d",
+    "2023-r05-aki/q18.png": "85819b65ec49dfb85a7625853a4a7bda8d92fa3007ef5fbb21a37970bfe4e4df",
+    "2023-r05-aki/q19.png": "d6a87b65cb596d0d33614bfea09cde38cd64faabefb91656978eb6af526195db",
+    "2023-r05-aki/q20.png": "bb35d3aeb914f67bc01449996cf0f3b11c5ad19093706e7c78d5ad64b9d1de77",
+    "2023-r05-aki/q21.png": "87c1fca02376c216634b323b01ee5b46f5a0bc44e7245a924903084695a1f2cd",
+    "2023-r05-aki/q22.png": "977dd97547f21cd7f0a8e15f1415bc62214d4c76e0f64826823ea6887a38c427",
+    "2023-r05-aki/q23.png": "9056a765fa142d0b3c2b79aa66900fc2bcd3a85ee1758208908a5b314300cdf5",
+    "2023-r05-aki/q24.png": "66433e7b812dc877f4b14d9473c914c56c093221331af643068837c99a1a4348",
+    "2023-r05-aki/q25.png": "abe43c2464ad56f755bd5acb500e2854fac317e4a6788387e3ed6bd4409b0425"
+  }
+}

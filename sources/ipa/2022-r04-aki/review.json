@@ -1,0 +1,239 @@
+{
+  "examId": "2022-r04-aki",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [
+    "OCRの文字・問番号・公式用語を原画像で補正。補助テキストは原画像の意味を保った要約を含む。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。変更要求による実行・管理の相互作用を2018年版の原規格転記と照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。憲章の承認と責任権限を計画書・ビジネスケース・スコープと区別。補助テキストは長文肢の意味を保持した要約。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。WBSが主要入力となるスコープ管理を2018年版で照合。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。2024問2との肢順一致とRACIの4役を再照合。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原画像の成立期・遂行期の表記を拡大確認。Tuckman原論文の公開再録と対立段階を照合。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。資源管理と見積り・チーム開発・チーム管理を2018年版と比較。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。CPI0.9/SPI1.1/TCPI1.2と各方向・必要な残作業効率を確認。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。WBS・ガント・ネットワーク・時間費用最適化の4肢を比較。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原画像を個別拡大しエは最も遅くと確認。BダミーCGH60日、E余裕30、F最遅41日目を再計算。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原画像の指数1.12と4曲線の形を確認。S^(-0.12)/3と単調減少・傾き緩和を導出。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原画像を個別拡大、ウは逆数の和で2024問10と同一。全体は逆数の和の逆数を導出。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。表の46/96/41/130を確認。新規41と改修46億円を確率70/30%から再計算。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。全表セルと4.5〜5.5の許容を確認。4.333/5/4/4.6を再計算。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。ISO25010:2011の公開用語定義で回復性・使用性・保守性・互換性を照合。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。宣言原文と全肢の価値の対応を確認。2024問17と一致。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。ペアと他3プログラミング手法を区別。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。UMLユースケースと要件追跡、反復開発・アーキテクチャ中心との違いを確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。原表の12値とROI定義を確認。1.5/1/.875/1.75を再計算。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。NIST800-34r1の復旧準備状態とcold/warm/hotの違いを照合。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。定額と実費償還、Bの人員不足・変更なし・Cに故障なしを確認。FARは契約種別の参考として使用。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。EU公式RoHSで鉛・水銀の制限を確認。WEEE・ISO14001・日本の購入制度と比較。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。国連2030Agendaの目標年と17目標を確認。各誤答は関連活動で全体の定義ではない。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。RFC5280のCRL項目と期限切れ、OCSPとの違いを照合。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。RFC6265のcookie保存・送信範囲とNGINXクライアント証明書検証機能を照合。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。CISAの赤・青・白の役割を照合、知識共有の紫との違いを確認。"
+    }
+  ],
+  "dataSha256": "469c1edc0108dda68291c3c5743c9de9240781129ccd93152604869e747d33e2",
+  "imagesSha256": {
+    "2022-r04-aki/q01.png": "bbdbd552a2073a868b30ce2bf234910b94cb35e3b331c0d7f3a3c7d979dd9716",
+    "2022-r04-aki/q02.png": "4c1f76d4ddf749a478fcc86e49ad4d28243e60055725e569dfee093d6145c9b2",
+    "2022-r04-aki/q03.png": "cbaac280925426b8a3b688b51f2ce61b0de1c8b2a079ce3930eb9c4893e6ea5e",
+    "2022-r04-aki/q04.png": "d9d918f6d74be1fdf90b70e4e9f82910930e10f2f7c8c78c077ecb739afc4164",
+    "2022-r04-aki/q05.png": "2dd50aa9ea5de7349e83249a28fba9fda35106f03d4ea72457058dbeff8eef34",
+    "2022-r04-aki/q06.png": "490c6b8aa1f1cfcd8c08372a1bb89a37fe68d5f826747d3f1beeadd82a0e8708",
+    "2022-r04-aki/q07.png": "70e29c82ff2bfda1062ece15be156cba72a429edf4942546af9e411f0e6579e4",
+    "2022-r04-aki/q08.png": "36cf8335f457940ff78e58d24a6c494df3bb9ab0f3da523833b30685a9795d37",
+    "2022-r04-aki/q09.png": "4908ae22b0ee48b7aa57d9d2bdacf8a3425da909f4dbb38ada23d18ebfc0c4ee",
+    "2022-r04-aki/q10.png": "a2646a5cf1c6719e035188eaf3b082904fb86c83bf03ffc7e512c84fc44649ac",
+    "2022-r04-aki/q11.png": "c2292f58d9e84cd7d9dd3e0a81ee55548960c4a6fce91d33cfa1a8001e2bca1c",
+    "2022-r04-aki/q12.png": "369a0d3a67c9e64607481ed908344cc7ac90eb9099dbb4431e4c467bf36e16e0",
+    "2022-r04-aki/q13.png": "0182d9370f1253fbb33b835633cdceb652d69e9d465177f20f2e20577c40c9a5",
+    "2022-r04-aki/q14.png": "841cbdcccba3a0884473fff0782d9afc0dc0fb2083e3864ab297125fcc08e67b",
+    "2022-r04-aki/q15.png": "0e448da6b0ee93cdb8b437f70387e489ee1767a4466761e702eb0eb34ab57180",
+    "2022-r04-aki/q16.png": "4dc6400bdebf808bb26a9ec383c67fee13e9295d37b78af47ec90b8f89b44691",
+    "2022-r04-aki/q17.png": "c3a124efd7749abeea907116ab4fd02bd3187dd60a4794eb243e09ec09df4064",
+    "2022-r04-aki/q18.png": "fb9c4e45464b36489799575aeda8d2a9e830b2bff94c73de5f487d6cda843cc8",
+    "2022-r04-aki/q19.png": "262ed7a2c521d24b89afe2e48fb27090ab8e4b6cc871779adffdc5c895acf8f0",
+    "2022-r04-aki/q20.png": "09af7b392aff9abe09fe45a267ca762ec30d2438b1419d52a4c29bd6fc28684f",
+    "2022-r04-aki/q21.png": "b9a9fea741b6c4dd29e38ce3e0317aa1c7947af0d10c4f72689b93accd88fb39",
+    "2022-r04-aki/q22.png": "8ff2a5802b7854f4d83f5aa5acf7aa1674e9ee26f22f1beb0ede3a05f36e1bf9",
+    "2022-r04-aki/q23.png": "f75636fece80481ec11e68a96bb2c9fee8b2fc406ac2e2f0b6e1c94203022f33",
+    "2022-r04-aki/q24.png": "42d71df8c665cb3cac53d4ef6323ff4fd509684a345f03c4f556cb57a7b68fa0",
+    "2022-r04-aki/q25.png": "aba6904b2b28a6bed862fa718bff95c599de84a2af9f0cdd5dc3b5afdbc9fabf"
+  }
+}

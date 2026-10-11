@@ -1,0 +1,237 @@
+{
+  "examId": "2014-h26-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "SPA能力評価と他3知識体系を区別。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "減少a影響力・増加b変更費を原図に照合。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "憲章は統合管理の立ち上げ。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "過去案件のファイルは知識ベース、手順テンプレートと区別。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "プログラム管理と顧客・スポンサー・供給者を区別。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "将来のサブプロジェクトを段階詳細化する原選択肢と照合。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "RACIの四役割を確認。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "3経路15/13/11からB−3・A−1で12/12/10、費用11を再計算。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "フィーディング・所要期間のバッファ名を原選択肢へ合わせた。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "基準対実績の差は差異分析。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "45組×4=180、440/220=2週、800/440=1.82を再計算。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "確率×影響金額のEMV。次元も確認。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "受容は正負両方。全選択肢順を確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "生産性S^−.12の減少と緩やかになる傾き。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "パレートと管理・散布・特性要因を区別。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "検出率.2、元の総数50、残存40を再計算。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ペアプログラミングがXP。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "aウォータフォールb段階c進化を原表で確認。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "当時のITIL戦略→設計→移行→運用を原図に照合。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の重み4/2/3/8/3、点3/1/7/−13を再計算。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "実施実績による使用料と一時金・保守料を区別。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "旧下請法の補充書面義務・振込手数料実費の事前合意を公取委資料で照合。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "重要性・復旧優先度と予防策だけの計画を区別。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "SMTPの中継とDNS/Webの設定を区別。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "証明書のトークン保存をOASISで照合。IP必須・国内短鍵制限は誤り。"
+    }
+  ],
+  "dataSha256": "692633b26a373d5acadb24687e3f36dec7ff6136b0d86294a8903c870ccb411d",
+  "imagesSha256": {
+    "2014-h26-haru/q01.png": "00ff6afb73bcdf9e2821020be96da48ec11bbc20e559d58d0d169210dfb2b94d",
+    "2014-h26-haru/q02.png": "446fcd4c36fa6ac0fad8a19b76682bccef6cb716c214cc9d7db22b327836ca86",
+    "2014-h26-haru/q03.png": "464a4bb37429094184c26370e7223ce77b67e3ed7445fffe8fa9bb75a9b2c9f3",
+    "2014-h26-haru/q04.png": "44736e81fa3b0acdf5f51e0c0e5f7a5986a5ee4ae55715f99d36719c235b7d0e",
+    "2014-h26-haru/q05.png": "6c7a2f6675db1f22c296ba62b3185e3e27afebe087e2037d2169480023c1f6f2",
+    "2014-h26-haru/q06.png": "4ecbe281e8927904848907d6ac1eb6d99ab572612b09387ee185da3d12b1a615",
+    "2014-h26-haru/q07.png": "1e0eeb842a14ab8933add8d669a4010a02642ff46992c5f9ad8709722f67bf98",
+    "2014-h26-haru/q08.png": "e2b4431f9b333507379a5db711693bad6923975c7b2125365b902b2052a4bda2",
+    "2014-h26-haru/q09.png": "47415ced632bc5f643c98024c6760c856fd6a542b2d7d2e3379b2b5080e7e19b",
+    "2014-h26-haru/q10.png": "06eb66f5f95163d6020b6d7a4499ce3dc55602c8a8556cfade2622f21f64bcc1",
+    "2014-h26-haru/q11.png": "1fcda7d09326ebd9546d687f00355027029b1db91c52dab70b1dddf56ff4f64f",
+    "2014-h26-haru/q12.png": "18713e5c00269f7997fe32281dece457eeaa97eafd265d03352c0df51319ec19",
+    "2014-h26-haru/q13.png": "ea35076d56ae40d9805761f50344f77e23c2aaa038a17fee30f40433cfc58062",
+    "2014-h26-haru/q14.png": "fa1c9693de0bc31fb185ab5b3a274be7aa7a54658f992eb7fa6084841589bae8",
+    "2014-h26-haru/q15.png": "2f45d59b6f8763c4fec4f6062a27e3690e171d4501aaa9ae92316c5f38d1f3f4",
+    "2014-h26-haru/q16.png": "a9a0d0c22fe88b351dc83d47985632261e77ea29d48ecebf1af79566d5172e72",
+    "2014-h26-haru/q17.png": "db505aa9de01b5002a724f483dde52887523d43552e12df71b32b3703a7d9b61",
+    "2014-h26-haru/q18.png": "7d803b7a8c8d0a2ee7069568354b937bb13a474e26cfec913de148aa319fca5b",
+    "2014-h26-haru/q19.png": "e0bb337d3a836f86b5afb4f77a1b8176909c4bceb9fb641f26ad50eaa9c1f151",
+    "2014-h26-haru/q20.png": "bf837c6c60ba74c8f3bd38a78aa90c12ff09f432ede6180ea627c1c52dd61827",
+    "2014-h26-haru/q21.png": "e7d3f4c815392b88a3ae5edde2b42cada24110999786045adfa07bd474e9cef6",
+    "2014-h26-haru/q22.png": "7306ce7eecf3094d61ab2d0bc1d721bb2ef1991050d202f7189e1a266f121d1f",
+    "2014-h26-haru/q23.png": "ad4da2031b8f7d93063f9a0e50a6b0e2f6dd0855adac6eeee470f3a6a8388f0b",
+    "2014-h26-haru/q24.png": "51f55b64e0f9375f6b14a7dff5055a3acc6a92975447065c99aefd17c08270c8",
+    "2014-h26-haru/q25.png": "9b317ef6c80fe7f3dd3df7c3531740e0f20313879ad183910a5ae4ccb7ba2c07"
+  }
+}

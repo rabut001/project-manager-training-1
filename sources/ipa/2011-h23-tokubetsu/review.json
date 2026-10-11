@@ -1,0 +1,237 @@
+{
+  "examId": "2011-h23-tokubetsu",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "システム化計画から管理計画への具体化と承認を照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "憲章は統合・立上げ。四つのエリアと群を照合。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "範囲変更の変更要求と処置の違いを照合。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図を再計算し5→9→4→2→3人、ダミーの先行関係を確認。各誤図の人数を個別記載。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ガントの予定実績と他の工程図の特徴を全肢確認。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "クリティカルパスへの資源投入と全体短縮を確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "データ2種類とトランザクション3種類を表の全肢照合。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "当時の効率性と機能性・信頼性・保守性を照合。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "棒の総数と商品別内訳、他のグラフの目的を確認。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "具体事例から結論への帰納を確認。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "インバスケット、OJT、役割演技、発想技法を照合。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "金額×確率を確認。例の100×0.2=20を再計算。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "専門家アンケート反復、対面討議・SWOTとの違いを確認。補助肢を原文の専門家に修正。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "出題時点の好機・脅威と4戦略を照合。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "RFPの評価項目と費用・納期・機能条件を確認。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原画像を個別拡大しシステム要件とソフト要件の分類をIPAシラバスと確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原画像を個別拡大し入力2・出力2、アの入力欠落、ウの出力欠落、エの無入力を確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CMMI成熟度モデルとライフサイクルモデルを区別。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ソフト要件からソフト適格性確認までの改修範囲を確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の重み4・2・3／8・3で4案を再計算。3、1、7、-13。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "障害回避→原因分析→変更判断→展開準備と全組合せを照合。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "投資500に対する累計を再計算。dは2年、bは3年目、aとcは4年目。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "業務モデルから機能整理への順序を確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "2011年当時50年と2018年延長後70年を文化庁資料で確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "組込製品メーカーAだけが設問のPL対象。消費者庁Q5・Q13でソフト単体と販売業者を確認。"
+    }
+  ],
+  "dataSha256": "cdb82d44981fa8e5973273f999cd899dc9d075eed9be8a80ef5e369c86a24c24",
+  "imagesSha256": {
+    "2011-h23-tokubetsu/q01.png": "f7cebf52ae2d27b7aea8dda7fca56f31932c83052de5be400220a0d83d743791",
+    "2011-h23-tokubetsu/q02.png": "72de15d75f13e39936d523feaae15d3ef716f3c5f4721213b515cd9a0763d6d5",
+    "2011-h23-tokubetsu/q03.png": "56a742cd292e2241a69be122c156cf4dfe3118beb8bf7b786277c6bf8f0f0cd5",
+    "2011-h23-tokubetsu/q04.png": "af7d0a15e10e81133babbaa5592c9b9ed3135b7e27b78555b1a10705fb56b7c3",
+    "2011-h23-tokubetsu/q05.png": "b75a48416a1245f5bf1211fe904e325e0df0851909fd3c21e39ad8207a18a51f",
+    "2011-h23-tokubetsu/q06.png": "a6182fa6441e2ae19f7a93ba3ce90cbfb53d54901e8be2a7dc22db3d2d21a4ee",
+    "2011-h23-tokubetsu/q07.png": "db357c8a748334e7871ddd713a07eb0b7cdcf72a88471cfd925a178c5ee017b2",
+    "2011-h23-tokubetsu/q08.png": "b8f847b116cf2b672f7345180220893337519648ca2a2ec64942972f4c4ea51a",
+    "2011-h23-tokubetsu/q09.png": "6a8c2a5c1e19423ba9c9a21a649cad2de1d4acdd24d26cf0147f92659486d2ae",
+    "2011-h23-tokubetsu/q10.png": "31624bcd7540e19d7cc96bbbda52dd518eb985e60e42fa0bdc44cb5a2bc893cd",
+    "2011-h23-tokubetsu/q11.png": "20b94d25468258b98020d9b5e575ae151c446035a6eea1f5036ada84fd785fb5",
+    "2011-h23-tokubetsu/q12.png": "ea571b11a110088c04a63efc3beaa4d8e6fde727593f98c68876f725bfbdae1e",
+    "2011-h23-tokubetsu/q13.png": "44d7fcbf47685ece82d6fc78e55226a5d564281207803e353d240e972b1a5cd1",
+    "2011-h23-tokubetsu/q14.png": "570f60bcff44e4bf7bea1f10611587bcf8657796eb984fa2b85ac5dc1c557b89",
+    "2011-h23-tokubetsu/q15.png": "11fa0f735101a934bb21d4774ed2fefbda0cf9aeea32e3c07e817c25f99e36c9",
+    "2011-h23-tokubetsu/q16.png": "cf1ac44aa5176d28b58038150d87e82e94c277bf4e0c70de71edf9354dbebd58",
+    "2011-h23-tokubetsu/q17.png": "e35d81b64391a6ef6caceb38e2ffd82be08ea05d290f7821568e0734b2f38021",
+    "2011-h23-tokubetsu/q18.png": "d586046b6879483c4df7bc3d805c0dd78bf54820f9b95ff930f4bc78b49c4240",
+    "2011-h23-tokubetsu/q19.png": "0543b20213800baaa848d88f7c13e5b158e9b2a334ccbb34f653c989ce5d0e60",
+    "2011-h23-tokubetsu/q20.png": "6192e4ec6a2aa1984f05c57dd44d42be515468edac1c2ba0b845df7510f3b766",
+    "2011-h23-tokubetsu/q21.png": "84671f174296596cd199d2266990360d53574dc2ffaf394741868fa803ed5f65",
+    "2011-h23-tokubetsu/q22.png": "a727e3864ea6dc694c4c72a9c9212b3fdc5bd33aaad740b74b4ba4bc34c5cf49",
+    "2011-h23-tokubetsu/q23.png": "c1130f4a6657783033a9cfab38d8296beff816b0619a250a74d3b68770b5e679",
+    "2011-h23-tokubetsu/q24.png": "5badbd57b5a2306da19477f89a515aec7a749e24674faa17629f8a538d08c547",
+    "2011-h23-tokubetsu/q25.png": "d6fe817f05fe8305569e26027b9c306f26c8d13de5abdba4297cae89a7ce9c17"
+  }
+}

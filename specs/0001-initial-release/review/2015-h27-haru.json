@@ -1,0 +1,237 @@
+{
+  "examId": "2015-h27-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "統治責任はスポンサー又は運営委員会。実行責任と区別。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "全工程工数を合計して逆数和の逆数を再導出。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "課題欠陥手順と環境要因を区別。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表の期間比合計.57、残り.375、150日を再計算。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "RACI設計行A=野村を原表で照合。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "途中増員の教育・通信負担とブルックスの経験則。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "最終タスク後の全体バッファと個別余裕を区別。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原選択肢順を再照合。ガントはウ。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "資源追加のクラッシングがア。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "CPI<1のコスト効率と原因改善・監視を再照合。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "IFPUG分類を原表と照合。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "定性の確率影響マトリックスと3定量技法を区別。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "予防教育費は適合コスト。他3失敗費と区別。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "平均修正時間と欠陥密度・移植性・要求頻度を区別。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "最終一括検査の不足を工程別品質検査と是正で改善。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "入力検証はフールプルーフ。3障害対策と区別。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "リーン七原則とScrum・XP・FDDを原選択肢順で照合。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "地図サービスの組込みとリンク・非同期表示を区別。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "復旧と既知誤り・原因究明を区別。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原表を再計算、A161/B172/C153/D157でC最小。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "学習容易性と性能・移行・回復を区別。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "経産省の営業秘密三要件を確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "消費者庁のオプトイン・取引例外と表示義務を照合。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "NISTのAES鍵長3種類と固定ブロック長を確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原選択肢順はTEMPESTア。漏えい電磁波の遮蔽と通信暗号化を区別。"
+    }
+  ],
+  "dataSha256": "4f492657c8aa5e04e61e4b3f130ada503b9944ccf44b2536d7e5f592086174b1",
+  "imagesSha256": {
+    "2015-h27-haru/q01.png": "a4cfa384dec3e63547008f91bdb1dba2089068c2f0da5869afa98f2404e06afa",
+    "2015-h27-haru/q02.png": "1f7bc8cbe161e8afa4c8add565e403bc84611d07c218f408a387e46e2bf258a3",
+    "2015-h27-haru/q03.png": "070bc205e6e8cec9f76f5776b5634dbd7168db0336bddb40168f50fb4961d69e",
+    "2015-h27-haru/q04.png": "48aadc1c767901f28fbe9e1240bfa463d3efc6dded01c3664485fdbb22ee3a6f",
+    "2015-h27-haru/q05.png": "89274272cbdef9753e29a1a4bc18f0c5cc3310c2255b70e6a955215760e852b3",
+    "2015-h27-haru/q06.png": "fed304841efac5b6e5e23ef4126955d19ab95beaa2e9a85867b22daacce040a6",
+    "2015-h27-haru/q07.png": "2439f61ccfba9f45ff97948b2f1bb82a8e23ef622530a4659b2c8607db5170be",
+    "2015-h27-haru/q08.png": "51886b8e6e25dd2f1331df862229813c96a2d48d35310dd43424589d7af908ad",
+    "2015-h27-haru/q09.png": "62b22246bd9c9d91a15ffa3a403d82a92a4a69eca5bdcab07c520b57bbc84ff8",
+    "2015-h27-haru/q10.png": "56a017c31cd2ddc0d4dd983b1d0da94e18bc0cd29e0ea47e9ffd54579bde3039",
+    "2015-h27-haru/q11.png": "01e9251147bae8cb4858aca40533258344897c4854f79a34127ef2e4cc875db7",
+    "2015-h27-haru/q12.png": "9a75f3a2cf9551f6f100b4a26e241ede9c5a60a6486aba7fbc6414d3e9d3a4e0",
+    "2015-h27-haru/q13.png": "17330a7f919315f0db75a595eb0b4d1e4262a0944e2b23e17c1eba9caa5ef820",
+    "2015-h27-haru/q14.png": "4a6f52785c001fbae01c0eda407f8cb56238bec39c48e99d6d640d27547b3b05",
+    "2015-h27-haru/q15.png": "eb4c1f36500c7ec6d26e86f5da3ec01f3d5dd2eca9da6e9221273a4a724dea98",
+    "2015-h27-haru/q16.png": "87d46b865a17ce9797c4144f2ef42400777b839f5cb60c62c9aae27c73d47c61",
+    "2015-h27-haru/q17.png": "81c6eaafa114493f1e5daed6f251f8759375dbabf70658a64cc7169777f82a77",
+    "2015-h27-haru/q18.png": "ec480817d176bca076ad1945944401bb57d8a4b373bd1c803189b1445cc8b1af",
+    "2015-h27-haru/q19.png": "647c6d8e771b67ed59c8a7763c13353e5b6a5168a3ee0a4e40e2831e96737691",
+    "2015-h27-haru/q20.png": "3da9932d63173e6dc786add3548ca5ce129f7b935b45f6bfff2edb407fc9107a",
+    "2015-h27-haru/q21.png": "1edc93c414d2cbc9000ad6445fd3d0f883415b9c3f078b2e338789aa221b1200",
+    "2015-h27-haru/q22.png": "7339b7b53a3a32961c93680a90e25632475a0f27d604572ce39c15575bba8fdd",
+    "2015-h27-haru/q23.png": "4b6910cb6d0435508c5c7a455b306e70a20784cf65d2ee5991a98e8ef2613c6b",
+    "2015-h27-haru/q24.png": "237f2a5db74441f3a806e339b0a6e6594dc9629f701730f7002da559519d2735",
+    "2015-h27-haru/q25.png": "44aeefd7026e6aee690bf1ad6a483d7ba776bda78b997c5275c91f332387e05e"
+  }
+}

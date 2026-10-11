@@ -1,0 +1,237 @@
+{
+  "examId": "2009-h21-haru",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後の別工程で原画像・公式正解・解説を照合）",
+  "method": "原画像25問の問番号・問題・全選択肢・図表の完結性を目視確認。公開用補助テキストは意味を保った要約を含み、出題本文は原画像を使用する。執筆後に選択肢と解説を再照合し、計算問題は再計算。参照資料の版は出題時点に合わせる。",
+  "corrections": [],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "30件、確認24・早期修復27・残修復15=66、削減84を再計算。3誤答の数値も前提から照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図の現在位置でEV/PV/AC順を照合し費用効率と進捗効率を確認。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "FP5分類と重み、作業工数積上げとの違いを確認。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "既存100人日、不足60、追加1人15日より追加4人。3人不足・7/8人は最少でないことを再計算。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "品質特性の原選択肢順を個別照合。信頼性と機能性の順に注意。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "構成比・複数軸・時系列・相関のグラフ選択を確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "軽重の順と処理順・事例・問題解決順を区別。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "EMVは金額×確率、割算と対応費の誤りを確認。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "専門家アンケート反復、インタビュー・対面討議・SWOTを原本照合。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原図の4象限と各表を確認。A予防/B受容/C両方/D発生時。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "仕様未定で定額完成を負う納入者リスクと他の精算方法を確認。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "システム方式→システム結合、ソフト方式→ソフト結合、詳細→ユニットの表を照合。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "状態・イベント・次状態、時間分析や構造図との違いを確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "自動回復・定期・遠隔でも事前事後確認が必要。全肢照合。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "スパイラルの反復、RAD・逐次・試作品との特徴の違いを確認。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "実装から仕様書へ復元、影響分析と書換えとの違いを確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "ミラー書込みで障害時継続、分散・予備OSだけ・週末コピーの不足を確認。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "手順書整備とログ全除去・直接変更・既存データだけの不足を確認。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "原本のc→b→f→e→d→aを照合し全誤順の逆転を説明。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "SCM在庫改善と労務・価格・顧客施策の指標を区別。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "全社概念モデルを詳細化する順序と処理・エンティティの混同を確認。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "当時の共通フレームの企画・要件定義・開発の区分を確認。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "費用負担や仕様提示だけでは著作権移転しないことを文化庁資料の著作者原則と照合。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "2009年当時の下請法と公取委旧法資料の未定事項・実費算定・承諾付き電子発注を確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "生存者と識別性、公開情報・従業員・外国人も対象というPPCの定義を確認。"
+    }
+  ],
+  "dataSha256": "f3f13f1154ff693d3a39d9c70676dfd37822c200283f0398af61966d7d8c65e0",
+  "imagesSha256": {
+    "2009-h21-haru/q01.png": "f7e05695e867d833a16b0a2f1f02a7fdbc602c4563a113e8566b1a6d823c7d0a",
+    "2009-h21-haru/q02.png": "6dfc7ecf5425571b0b6d3e88f0a1f16f9dc5dd39df8d8228b30bbaf26902b39e",
+    "2009-h21-haru/q03.png": "4ac0ad1beb10f949ef083b9b8fa974e8566cb1150a85daff05a807a5389fbce1",
+    "2009-h21-haru/q04.png": "b2e845ce7eed1d3a303ac770c57ab8ae33e6255540267affa9c5167ec12dd57f",
+    "2009-h21-haru/q05.png": "2789347b96ddd68b656509abb87fa8bc3d403c8d906e40dd3cdc45446b14ec9d",
+    "2009-h21-haru/q06.png": "d5ff6992bf6bf46d3891dfae93a1a52a9d81f0060ff9d93b84dffce13d330f86",
+    "2009-h21-haru/q07.png": "aa7e75fb40466d3f96e6c47a0b587c4b6a9d218bce9f09ad2e2fe64a759282cc",
+    "2009-h21-haru/q08.png": "c9e73bfcc6b46325d145873c9297f8e6ecd9990177404f0e3070c9ce1b19de79",
+    "2009-h21-haru/q09.png": "96d402f048d4ef6a4e0137b37968ebae99a642b9e73f65a151bbc17bda9eb1ac",
+    "2009-h21-haru/q10.png": "74659f4eca081b238e83d71215e5ddf919c1ff4e84b8d02d3956ab1a32b6d3ea",
+    "2009-h21-haru/q11.png": "c5a2808c0ec4334677525014fe858deb5a2e3debab8e580be987657beecce5b0",
+    "2009-h21-haru/q12.png": "a86fee9db8aebe2774a5215558d4fa34b9ec83a23ccb8d904590182a03ffd1b1",
+    "2009-h21-haru/q13.png": "f13e86c8400c704a015d3bb7b5f65317c77fd7ba388d7909744e5adae84193c8",
+    "2009-h21-haru/q14.png": "50c01df291a6c2861a35c3d607918ef2e293bf4ed5f21d57ef3ce0e98da143d3",
+    "2009-h21-haru/q15.png": "0a102c4da9a32285362f86a1d43d013f04aa9bc78c5ae0001552e788192cf871",
+    "2009-h21-haru/q16.png": "3fb26041228619acaa1f6c915824f709a54340b2697aa482fbbff37908dc485e",
+    "2009-h21-haru/q17.png": "321d87a326a2b8c2d92f1e5b325a80854743436f820b392d346a4e477ffc01ab",
+    "2009-h21-haru/q18.png": "10c0f6f264a100f271012d9f34da589c4ef5ae8fe7e6baa8dc546c09150388e5",
+    "2009-h21-haru/q19.png": "166b27faacec29ce14ac4936a97c4983c37f386893c7a7b95eb0d5c95da5830e",
+    "2009-h21-haru/q20.png": "a8d84fbcc888112e6b7b091d80f6a596edf4e960c980f2c8b59fc204f6e4a554",
+    "2009-h21-haru/q21.png": "4596062e8ff9cbe4df27b73a46afc4dfe6a5c3b802c3bb7be1110034ff4236c0",
+    "2009-h21-haru/q22.png": "a0ddd63c9b7bb55f0a439f8b62d3c2f800bd20ef246d0d2539c3c5252f0d99d8",
+    "2009-h21-haru/q23.png": "5814d46ea5f2a88f3061e2e28be30ea5e667ebd4a2e5336b73286bea33fe2b54",
+    "2009-h21-haru/q24.png": "10fae60ae73a4a1ef21316e87d1aa4cb326bb46fbdbbfdaf12788b8a0a605cce",
+    "2009-h21-haru/q25.png": "bbc4ec9a029a43dd3483c25a58efb9081fb9eeed033be9590a4c13b6212ecf47"
+  }
+}

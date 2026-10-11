@@ -19,6 +19,7 @@ def validate(release=False):
     if release:
         assert set(ids) == set(sources) and len(ids) == 17, "全17回が未収録"
     count = 0
+    scored_count = 0
     for item in catalog:
         exam_id = item["id"]
         data = json.loads((ROOT / f"public/data/{exam_id}/questions.json").read_text())
@@ -34,6 +35,8 @@ def validate(release=False):
         assert item["questionCount"] == len(questions) == 25
         for q in questions:
             assert q["answer"] == answers[q["no"]], f"{exam_id}問{q['no']}: 公式正解不一致"
+            assert q["answer"] is None or q["answer"] in CHOICES
+            scored_count += q["answer"] is not None
             assert q["stem"].strip() and q["explanation"].strip(), f"問{q['no']}: 未執筆"
             assert set(q["choices"]) == CHOICES and all(q["choices"].values())
             assert set(q["visuals"]) <= {"figure", "table", "image"}
@@ -48,7 +51,7 @@ def validate(release=False):
         assert [r["no"] for r in review["questions"]] == list(range(1, 26))
         assert all(all(r[k] is True for k in ["image", "text", "answer", "explanation"]) and r["note"] for r in review["questions"]), "内容確認が未完了"
         count += len(questions)
-    print(f"検証成功: {len(ids)}回・{count}問（{'全回リリース確認' if release else '収録済み範囲'}）")
+    print(f"検証成功: {len(ids)}回・{count}問（採点対象{scored_count}問、{'全回リリース確認' if release else '収録済み範囲'}）")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)

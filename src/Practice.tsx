@@ -31,6 +31,7 @@ function questionByNo(exam: Exam, no: number): Question {
 }
 
 function statusLabel(answer: AnswerRecord | undefined, question: Question): string {
+  if (question.answer === null) return "出題取消、採点対象外";
   if (!answer) {
     return "未選択";
   }
@@ -72,7 +73,8 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
     : exam.questions[0].no;
   const question = questionByNo(exam, currentNo);
   const answer = progress.answers[question.no];
-  const confirmed = answer?.confirmed ?? false;
+  const cancelled = question.answer === null;
+  const confirmed = !cancelled && (answer?.confirmed ?? false);
 
   useEffect(() => {
     saveProgress(exam.id, progress);
@@ -98,10 +100,10 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
 
   const draftCount = exam.questions.filter((item) => {
     const record = progress.answers[item.no];
-    return record !== undefined && !record.confirmed;
+    return item.answer !== null && record !== undefined && !record.confirmed;
   }).length;
   const confirmedQuestions = exam.questions.filter(
-    (item) => progress.answers[item.no]?.confirmed,
+    (item) => item.answer !== null && progress.answers[item.no]?.confirmed,
   );
   const correctCount = confirmedQuestions.filter(
     (item) => progress.answers[item.no].choice === item.answer,
@@ -114,13 +116,14 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
         )}%）`;
 
   function select(choice: Choice) {
-    if (confirmed) {
+    if (confirmed || cancelled) {
       return;
     }
     setProgress((current) => selectAnswer(current, question.no, choice));
   }
 
   function confirmAnswer() {
+    if (cancelled) return;
     setProgress((current) => confirmSelection(current, question.no));
   }
 
@@ -138,7 +141,10 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
 
   function gradeDrafts() {
     dialog.current?.close();
-    setProgress(gradeSelections);
+    setProgress((current) => {
+      const answers = Object.fromEntries(Object.entries(current.answers).filter(([no]) => questionByNo(exam, Number(no)).answer !== null));
+      return gradeSelections({ ...current, answers });
+    });
     setDialogKind(null);
   }
 
@@ -178,7 +184,7 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
         </div>
         <nav className="numbers" aria-label="問題番号">
           {exam.questions.map((item) => {
-            const itemAnswer = progress.answers[item.no];
+            const itemAnswer = item.answer === null ? undefined : progress.answers[item.no];
             const classes = ["number"];
             if (item.no === question.no) {
               classes.push("current");
@@ -244,7 +250,7 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
       </div>
 
       <div className="lower" ref={lower}>
-        <div className="choices" role="group" aria-label="選択肢">
+        {!cancelled && <div className="choices" role="group" aria-label="選択肢">
           {CHOICES.map((choice) => (
             <button
               key={choice}
@@ -257,9 +263,15 @@ export function Practice({ exam, listHref, onLinkClick }: PracticeProps) {
               {choice}
             </button>
           ))}
-        </div>
+        </div>}
 
-        {confirmed && answer ? (
+        {cancelled ? (
+          <section className="result">
+            <p>出題取消（採点対象外）</p>
+            <p>{question.explanation}</p>
+            <p className="note">IPA の公式解説ではない</p>
+          </section>
+        ) : confirmed && answer ? (
           <section className="result" aria-live="polite">
             <p className={answer.choice === question.answer ? "ok" : "ng"}>
               {answer.choice === question.answer ? "正解" : "不正解"}

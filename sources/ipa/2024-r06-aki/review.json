@@ -1,0 +1,240 @@
+{
+  "examId": "2024-r06-aki",
+  "reviewedAt": "2026-10-12",
+  "reviewer": "Codex（執筆後に原画像・正解・根拠を別工程で再確認）",
+  "method": "画像一覧全5枚で25問の上下端・番号・全肢・図表を照合。執筆後に解説を全件読み直し、各肢の理由、計算と出題指定の版を再確認。公開プレビュー・検索抜粋のみ確認した資料は注記し、全文確認とは扱わない。",
+  "corrections": [
+    "OCRの問番号・選択肢マーカー・規格名・数式・表を原画像から修正。",
+    "執筆後の再照合で問8イの末尾、問12テスタの名称・計の行、問17の引用符を修正。"
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。計画書とビジネスケース・スコープ記述書・憲章の目的を全肢照合。"
+    },
+    {
+      "no": 2,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。RACIの四文字をPMIの説明と照合。誤答で欠ける役割を個別確認。"
+    },
+    {
+      "no": 3,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。JIS2018年版の組織定義と資源見積り・利害関係者特定・チーム編成を照合。"
+    },
+    {
+      "no": 4,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。図のBAC100、EV34、AC40、PV50を転記確認。TCPI=66/60=1.1を再計算。"
+    },
+    {
+      "no": 5,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。矢印とダミー作業を照合。ADG30日、H最早18日・最遅21日を前後から再計算。"
+    },
+    {
+      "no": 6,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。PDMのA8・C5・D5、B12と最終3日の設備制約を照合。18日不可能の隙間と19日実行例を確認。"
+    },
+    {
+      "no": 7,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。Agile Allianceの完成ストーリーだけを合計する定義と全肢の対象を照合。"
+    },
+    {
+      "no": 8,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。原画像照合でイの末尾を「予想値」に修正。CPIとBAC/CPIの仮定をPMI資料と照合。"
+    },
+    {
+      "no": 9,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。指数0.98、L10、単位と全数値肢を照合。規模÷工数=約0.201を再計算。"
+    },
+    {
+      "no": 10,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。三工程の工数を合計してから規模を割る導出と逆数肢を確認。"
+    },
+    {
+      "no": 11,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。2018年版のリスク特定・評価・対応・管理の各目的を照合。"
+    },
+    {
+      "no": 12,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。原画像の全月・全要員・計の表と条件7項を照合。テスタの名称を補正。準備・消去月込み94台月=470千円を再計算。"
+    },
+    {
+      "no": 13,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。GoF著者・出版社の目次で生成・構造・振る舞いを確認。言語別・アーキテクチャ別との違いを確認。"
+    },
+    {
+      "no": 14,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。各肢の完了条件を確認。環境問題の本番不発生確認と、未実施・順序変更・時間超過を区別。"
+    },
+    {
+      "no": 15,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。CMMI Instituteの成熟度説明でレベル2・3・4・5を全肢照合。"
+    },
+    {
+      "no": 16,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。Bill Wake原文でSmall・Valuable・Negotiable・Independentを確認。"
+    },
+    {
+      "no": 17,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。宣言の原文と四つの対を照合。原画像の引用符を転記補正。"
+    },
+    {
+      "no": 18,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。JSA2020年版公開プレビューの序文・ISO対応規格でSMSの適用範囲を確認。規格全文閲覧とは扱わない。"
+    },
+    {
+      "no": 19,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ア。少ない一定頻度の更新という前提を確認。平均ログ期間T/2→Tと全体バックアップの区別を確認。"
+    },
+    {
+      "no": 20,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。FAR16の契約分類で固定・経済調整・インセンティブ・実費償還を照合。日本の契約条件への法的断定は行わない。"
+    },
+    {
+      "no": 21,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。経産省AI編の公開検索抜粋で契約実務未確立・データ価値を確認。1.1版AI編と公式正解ウに照合。新版の内容へ置き換えない。"
+    },
+    {
+      "no": 22,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式イ。Janis1971年の原論文公開転記のmindguards・八兆候を確認。原論文ホストは第三者サイト。"
+    },
+    {
+      "no": 23,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。OASISのSAML標準定義で認証・属性・認可の交換を確認。VPNや脆弱性情報交換との違いを確認。"
+    },
+    {
+      "no": 24,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式エ。JPCERT/CCガイド6.1〜6.3の図とトリアージの位置を確認。"
+    },
+    {
+      "no": 25,
+      "image": true,
+      "text": true,
+      "answer": true,
+      "explanation": true,
+      "note": "公式ウ。公開PoCによる侵入の予防を各肢と照合。CISAの修正・緩和策による脆弱性対応と整合。"
+    }
+  ],
+  "dataSha256": "df84329e4a4a7edc9e1b7dc9e3b7a4986ffcda3df403f3e2571bebb91b6a22ec",
+  "imagesSha256": {
+    "2024-r06-aki/q01.png": "0627f86d6a4f738172addf0dfe34212fe3d01847592600a04cb77b1f82278010",
+    "2024-r06-aki/q02.png": "3a821aeb831b1439a9318bc3d61ee4a923316dc4c94ecccca82ec2edd30d52fd",
+    "2024-r06-aki/q03.png": "970ec165a6d7de255eccccc06f5ccd6c87dbc6aa96010650e3a8bb48cdeb27f4",
+    "2024-r06-aki/q04.png": "0a1a12732fe24cb128b3fbc2b745114cc2a8426508f5f0c43fd68be1da84f8d2",
+    "2024-r06-aki/q05.png": "ac36e400a91e1cf7bead394c378725fbb48d1b0c16c117c96130879f559bbfe5",
+    "2024-r06-aki/q06.png": "b4bafaf9282bd9d746d5726b99ca5cd8a21d239d82282d6cc1f530c399888dfb",
+    "2024-r06-aki/q07.png": "2ca1d9aaa089042e928c9b86078e27148157474f816feb1cffbba1ede586db47",
+    "2024-r06-aki/q08.png": "96c27cd23bd5db5e293cf0729f0f04f928da4bc29b896a585b6a347c3d0966c5",
+    "2024-r06-aki/q09.png": "437698111b0210aaee1903b6da83d26b57109e6353bae51b3b8a541aea6a5740",
+    "2024-r06-aki/q10.png": "385567fa6d5348f8e0948f81798dee72a1340464f5170ecd24984f1d50ead151",
+    "2024-r06-aki/q11.png": "69780fca83a0609eab14bfeab1f78533d2a4f7aedc71147b04868f6e56cb4c51",
+    "2024-r06-aki/q12.png": "9aecdf3d88b002624d69d2a2bc5975f19eaa15a7012452645f2042ac7aa4d119",
+    "2024-r06-aki/q13.png": "e984e65935228ac90b8e1287746729f639ac8592dbf2de67287e76eea0487d73",
+    "2024-r06-aki/q14.png": "b2e534ce72b4ea31dd57501ff885df46962d43695c80b3abc1bb2a152ee07542",
+    "2024-r06-aki/q15.png": "f428dc37b0ea4754f77af502d573ca0ffcc71b866c4a9d3d7544d381efc78e75",
+    "2024-r06-aki/q16.png": "7919a3a40822084cfa795af2de3032591807880323871e757b2aa636effbe966",
+    "2024-r06-aki/q17.png": "f0085ed8ff298f74f0b68713ea98f4d1c88e279e023fdae39f439870b27a95be",
+    "2024-r06-aki/q18.png": "d4c9c7ef80f700a452d837c9b5cc7b9a02b9d725ab3b1a73ddd73ca95a109c5e",
+    "2024-r06-aki/q19.png": "0758c59aec77c05b0be87e3f501b173926612abf9e8a35b993509cca53903f95",
+    "2024-r06-aki/q20.png": "e5ad65666c180bb90995ce11a893bbe56bdc7fb404830bce7250adc3e075dfcc",
+    "2024-r06-aki/q21.png": "254bcd8cf7b2ac1b8e659d1f627fd1cd8d61175ea26e82cc5fa14282aa201f4e",
+    "2024-r06-aki/q22.png": "0459cc199063cf5ef317a7433c1f66e645f4ff99e4724d00465d02399426e5f5",
+    "2024-r06-aki/q23.png": "d53124e30154e8555fb6934f2f23f848e0dd1ddb12bccd9804a389aa6dbdab63",
+    "2024-r06-aki/q24.png": "fef74c73544d4629ee0126591b0dce2da602c07c56645e8ed4378d6ddaabacc5",
+    "2024-r06-aki/q25.png": "4af8ed38d1fece60cb854b6dcd496d29f3bf9854fd5b0efe25f23e3b9071b22e"
+  }
+}
