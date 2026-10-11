@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-12",
+  "baseUrl": "https://rabut001.github.io/project-manager-training-1/",
+  "catalogYears": 17,
+  "examRoutes200": 17,
+  "questionsJsonIdentical": 17,
+  "images200ValidPngAndSha256Identical": 425,
+  "assetFiles200": 2,
+  "privatePaths404": [
+    "AGENTS.md",
+    "docs/product.md",
+    "specs/README.md",
+    "sources/ipa/manifest.json",
+    "sources/ipa/2025-r07-aki/am2-mondai.pdf"
+  ],
+  "method": "公開HTTPS URLへ4並列以下でアクセス。425画像を原ファイルのSHA-256と照合。"
+}
